@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <MinimumVisualStudioVersion>11.0</MinimumVisualStudioVersion>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AE01FDFC-AF49-4A09-B102-A93A41EB628B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EI_OpgaveApp</RootNamespace>
+    <AssemblyName>EI_OpgaveApp</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Profile259</TargetFrameworkProfile>
+    <ProjectTypeGuids>{786C830F-07A1-408B-BD7F-6EE04809D6DB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="App.cs" />
+    <Compile Include="Database\IApp.cs" />
+    <Compile Include="Database\IFileHelper.cs" />
+    <Compile Include="Database\MaintenanceDatabase.cs" />
+    <Compile Include="GlobalData.cs" />
+    <Compile Include="Models\AppError.cs" />
+    <Compile Include="Models\AppErrorPicture.cs" />
+    <Compile Include="Models\ConnectionSettings.cs" />
+    <Compile Include="Models\Customer.cs" />
+    <Compile Include="Models\FixedAsset.cs" />
+    <Compile Include="Models\Job.cs" />
+    <Compile Include="Models\JobRecLine.cs" />
+    <Compile Include="Models\DetailModel.cs" />
+    <Compile Include="Models\JobTask.cs" />
+    <Compile Include="Models\MaintenanceActivity.cs" />
+    <Compile Include="Models\MaintenanceTask.cs" />
+    <Compile Include="Models\PictureModel.cs" />
+    <Compile Include="Models\RegLinePicture.cs" />
+    <Compile Include="Models\ResourcePerson.cs" />
+    <Compile Include="Models\Resources.cs" />
+    <Compile Include="Models\SalesPerson.cs" />
+    <Compile Include="Models\TimeRegistrationModel.cs" />
+    <Compile Include="Models\TimeRegStat.cs" />
+    <Compile Include="Models\WorkType.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\AppErrorService.cs" />
+    <Compile Include="Services\ClientGateway.cs" />
+    <Compile Include="Services\CoordinateRetriever.cs" />
+    <Compile Include="Services\CustomerService.cs" />
+    <Compile Include="Services\FixedAssetService.cs" />
+    <Compile Include="Services\JobRecLineService.cs" />
+    <Compile Include="Services\JobService.cs" />
+    <Compile Include="Services\JobTaskService.cs" />
+    <Compile Include="Services\MaintenanceActivityService.cs" />
+    <Compile Include="Services\MaintenanceService.cs" />
+    <Compile Include="Services\PDFService.cs" />
+    <Compile Include="Services\ResourcePersonService.cs" />
+    <Compile Include="Services\ResourcesService.cs" />
+    <Compile Include="Services\SalesPersonService.cs" />
+    <Compile Include="Services\ServiceFacade.cs" />
+    <Compile Include="Services\ThreadManager.cs" />
+    <Compile Include="Services\TimeRegistrationService.cs" />
+    <Compile Include="Services\TimeRegStatsService.cs" />
+    <Compile Include="Services\WorkTypeService.cs" />
+    <Compile Include="Synchronizers\AppErrorSynchronizer.cs" />
+    <Compile Include="Synchronizers\CustomerSynchronizer.cs" />
+    <Compile Include="Synchronizers\FixedAssetSynchronizer.cs" />
+    <Compile Include="Synchronizers\JobRecLineSynchronizer.cs" />
+    <Compile Include="Synchronizers\JobSynchronizer.cs" />
+    <Compile Include="Synchronizers\JobTaskSynchronizer.cs" />
+    <Compile Include="Synchronizers\MaintenanceActivitySynchronizer.cs" />
+    <Compile Include="Synchronizers\MaintenanceTaskSynchronizer.cs" />
+    <Compile Include="Synchronizers\PictureSynchronizer.cs" />
+    <Compile Include="Synchronizers\ResourcePersonSynchronizer.cs" />
+    <Compile Include="Synchronizers\ResourcesSynchronizer.cs" />
+    <Compile Include="Synchronizers\SalesPersonSynchronizer.cs" />
+    <Compile Include="Synchronizers\SynchronizerFacade.cs" />
+    <Compile Include="Synchronizers\TimeRegistrationSynchronizer.cs" />
+    <Compile Include="Synchronizers\WorkTypeSynchronizer.cs" />
+    <Compile Include="Views\AppErrorDetailPage.cs" />
+    <Compile Include="Views\AppErrorFormPage.cs" />
+    <Compile Include="Views\AppErrorPage.cs" />
+    <Compile Include="Views\ConnectionSettingsPage.cs" />
+    <Compile Include="Views\Converters\AppErrorStatusToColorConverter.cs" />
+    <Compile Include="Views\Converters\BoolToColorConverter.cs" />
+    <Compile Include="Views\Converters\DateTimeToDateConverter.cs" />
+    <Compile Include="Views\Converters\DateTimeToTimeConverter.cs" />
+    <Compile Include="Views\Converters\EndTimeToColorConverter.cs" />
+    <Compile Include="Views\Converters\MaintenanceTaskRowColor.cs" />
+    <Compile Include="Views\Converters\TimeRegTypeToColorConverter.cs" />
+    <Compile Include="Views\Custom Cells\CustomActivityCell.cs" />
+    <Compile Include="Views\Custom Cells\CustomAppErrorCell.cs" />
+    <Compile Include="Views\Custom Cells\CustomCaseCell.cs" />
+    <Compile Include="Views\Custom Cells\CustomTaskCell.cs" />
+    <Compile Include="Views\Custom Cells\CustomTaskDetailCell.cs" />
+    <Compile Include="Views\Custom Cells\CustomTimeRegCell.cs" />
+    <Compile Include="Views\HomePage.cs" />
+    <Compile Include="Views\JobRecLineAll.cs" />
+    <Compile Include="Views\JobRecLineDetail.cs" />
+    <Compile Include="Views\JobRecLineForm.cs" />
+    <Compile Include="Views\JobRecLineManagercs.cs" />
+    <Compile Include="Views\JobRecLineUpdateForm.cs" />
+    <Compile Include="Views\LoginPage.cs" />
+    <Compile Include="Views\MaintenanceDetail.cs" />
+    <Compile Include="Views\MaintenancePage.cs" />
+    <Compile Include="Views\MaintenanceTaskForm.cs" />
+    <Compile Include="Views\MeetLeavePage.cs" />
+    <Compile Include="Views\SearchSettingsPage.cs" />
+    <Compile Include="Views\SettingsPage.cs" />
+    <Compile Include="Views\TimeRegistrationPage.cs" />
+    <Compile Include="Views\TimeRegStatsPage.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Newtonsoft.Json.10.0.3\lib\portable-net45+win8+wp8+wpa81\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Plugin.Geolocator, Version=3.0.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xam.Plugin.Geolocator.3.0.4\lib\portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10\Plugin.Geolocator.dll</HintPath>
+    </Reference>
+    <Reference Include="Plugin.Geolocator.Abstractions, Version=3.0.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xam.Plugin.Geolocator.3.0.4\lib\portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10+UAP10\Plugin.Geolocator.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Plugin.Media, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xam.Plugin.Media.3.0.1\lib\netstandard1.0\Plugin.Media.dll</HintPath>
+    </Reference>
+    <Reference Include="Plugin.Media.Abstractions, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xam.Plugin.Media.3.0.1\lib\netstandard1.0\Plugin.Media.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="SQLite-net, Version=1.4.118.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\sqlite-net-pcl.1.4.118\lib\portable-net45+wp8+wpa81+win8+MonoAndroid10+MonoTouch10+Xamarin.iOS10\SQLite-net.dll</HintPath>
+    </Reference>
+    <Reference Include="SQLitePCLRaw.batteries_green, Version=1.0.0.0, Culture=neutral, PublicKeyToken=a84b7dcfb1391f7f, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\SQLitePCLRaw.bundle_green.1.1.8\lib\portable-net45+netcore45+wpa81+wp8+MonoAndroid10+MonoTouch10+Xamarin.iOS10\SQLitePCLRaw.batteries_green.dll</HintPath>
+    </Reference>
+    <Reference Include="SQLitePCLRaw.batteries_v2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=8226ea5df37bcae9, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\SQLitePCLRaw.bundle_green.1.1.8\lib\portable-net45+netcore45+wpa81+wp8+MonoAndroid10+MonoTouch10+Xamarin.iOS10\SQLitePCLRaw.batteries_v2.dll</HintPath>
+    </Reference>
+    <Reference Include="SQLitePCLRaw.core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=1488e028ca7ab535, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\SQLitePCLRaw.core.1.1.8\lib\portable-net45+netcore45+wpa81+wp8+MonoAndroid10+MonoTouch10+Xamarin.iOS10\SQLitePCLRaw.core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http, Version=1.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Microsoft.Net.Http.2.2.29\lib\portable-net40+sl4+win8+wp71+wpa81\System.Net.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.Extensions, Version=1.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Microsoft.Net.Http.2.2.29\lib\portable-net40+sl4+win8+wp71+wpa81\System.Net.Http.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.Primitives, Version=1.5.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Microsoft.Net.Http.2.2.29\lib\portable-net40+sl4+win8+wp71+wpa81\System.Net.Http.Primitives.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Core, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xamarin.Forms.2.4.0.282\lib\portable-win+net45+wp80+win81+wpa81\Xamarin.Forms.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Platform, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xamarin.Forms.2.4.0.282\lib\portable-win+net45+wp80+win81+wpa81\Xamarin.Forms.Platform.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Forms.Xaml, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\Xamarin.Forms.2.4.0.282\lib\portable-win+net45+wp80+win81+wpa81\Xamarin.Forms.Xaml.dll</HintPath>
+    </Reference>
+    <Reference Include="XLabs.Core, Version=2.0.5782.12218, Culture=neutral, PublicKeyToken=d65109b36e5040e4, processorArchitecture=MSIL">
+      <HintPath>..\..\packages\XLabs.Core.2.0.5782\lib\portable-net45+netcore45+wpa81+wp8+MonoAndroid1+MonoTouch1\XLabs.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
+  <Import Project="..\..\packages\Xamarin.Forms.2.4.0.282\build\portable-win+net45+wp80+win81+wpa81\Xamarin.Forms.targets" Condition="Exists('..\..\packages\Xamarin.Forms.2.4.0.282\build\portable-win+net45+wp80+win81+wpa81\Xamarin.Forms.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\..\packages\Xamarin.Forms.2.4.0.282\build\portable-win+net45+wp80+win81+wpa81\Xamarin.Forms.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\..\packages\Xamarin.Forms.2.4.0.282\build\portable-win+net45+wp80+win81+wpa81\Xamarin.Forms.targets'))" />
+  </Target>
+  <Import Project="..\..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets" Condition="Exists('..\..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets')" />
+  <Target Name="EnsureBclBuildImported" BeforeTargets="BeforeBuild" Condition="'$(BclBuildImported)' == ''">
+    <Error Condition="!Exists('..\..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets')" Text="This project references NuGet package(s) that are missing on this computer. Enable NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=317567." HelpKeyword="BCLBUILD2001" />
+    <Error Condition="Exists('..\..\packages\Microsoft.Bcl.Build.1.0.14\tools\Microsoft.Bcl.Build.targets')" Text="The build restored NuGet packages. Build the project again to include these packages in the build. For more information, see http://go.microsoft.com/fwlink/?LinkID=317568." HelpKeyword="BCLBUILD2002" />
+  </Target>
+</Project>

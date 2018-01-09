@@ -1,0 +1,442 @@
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.Android.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.Android.pdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\dk.ei.opgaveapp.apk
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\dk.ei.opgaveapp-Signed.apk
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\FormsViewGroup.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Newtonsoft.Json.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.CurrentActivity.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.Abstractions.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.Abstractions.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.Abstractions.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLite-net.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLitePCLRaw.batteries_green.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLitePCLRaw.core.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Annotations.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Compat.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Core.UI.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Design.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Fragment.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Transition.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Platform.Android.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\XLabs.Core.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.pdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\FormsViewGroup.pdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\FormsViewGroup.dll.mdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Newtonsoft.Json.xml
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.CurrentActivity.xml
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.pdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.xml
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.dll.mdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.Abstractions.pdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.Abstractions.xml
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.pdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.xml
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.dll.mdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.Abstractions.pdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.Abstractions.xml
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.Abstractions.dll.mdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.pdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.xml
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.dll.mdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.Abstractions.pdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.Abstractions.xml
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLite-net.xml
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLite-net.dll.mdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Platform.Android.pdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\XLabs.Core.xml
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\EI_OpgaveApp.Android.csprojResolveAssemblyReference.cache
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\XbdMerge\Xamarin.Android.Support.Transition.dll.stamp
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\XbdMerge\Xamarin.Android.Support.v7.CardView.dll.stamp
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\XbdMerge\Xamarin.Android.Support.v7.Palette.dll.stamp
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\XbdMerge\Xamarin.Android.Support.Design.dll.stamp
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\XbdMerge\Xamarin.Android.Support.v7.MediaRouter.dll.stamp
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\EI_OpgaveApp.Android.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\EI_OpgaveApp.Android.pdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\bin\dk.ei.opgaveapp.apk
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\layout\tabbar.xml
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\layout\toolbar.xml
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\values\styles.xml
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\drawable\eistor.png
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\drawable\ic_launcher.png
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\drawable\icon.png
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\drawable-hdpi\icon.ico
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\drawable-xhdpi\icon.ico
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\drawable-xxhdpi\icon.ico
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\R.cs.flag
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\uploadflags.txt
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.dll.mdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.Android.dll.mdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\EI_OpgaveApp.Android.dll.mdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\EI_OpgaveApp.dll.mdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\FormsViewGroup.dll.mdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Plugin.Geolocator.dll.mdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Plugin.Media.Abstractions.dll.mdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Plugin.Media.dll.mdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.Android.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.Android.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\dk.ei.opgaveapp.apk
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\dk.ei.opgaveapp-Signed.apk
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\FormsViewGroup.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Newtonsoft.Json.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.CurrentActivity.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.Abstractions.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.Abstractions.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.Abstractions.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLite-net.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLitePCLRaw.batteries_green.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLitePCLRaw.core.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Annotations.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Compat.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Core.UI.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Design.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Fragment.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Transition.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Platform.Android.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\XLabs.Core.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\FormsViewGroup.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\FormsViewGroup.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Newtonsoft.Json.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.CurrentActivity.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.Abstractions.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.Abstractions.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.Abstractions.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.Abstractions.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.Abstractions.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.Abstractions.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLite-net.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLite-net.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Platform.Android.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\XLabs.Core.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\EI_OpgaveApp.Android.csprojResolveAssemblyReference.cache
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\EI_OpgaveApp.Android.csproj.CoreCompileInputs.cache
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\EI_OpgaveApp.Android.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\EI_OpgaveApp.Android.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\bin\dk.ei.opgaveapp.apk
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\layout\tabbar.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\layout\toolbar.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\values\styles.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\drawable\eistor.png
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\drawable\ic_launcher.png
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\drawable\icon.png
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\drawable-hdpi\icon.ico
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\drawable-xhdpi\icon.ico
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\drawable-xxhdpi\icon.ico
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\R.cs.flag
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\uploadflags.txt
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.Android.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\EI_OpgaveApp.Android.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\EI_OpgaveApp.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\FormsViewGroup.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Plugin.Geolocator.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Plugin.Media.Abstractions.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Plugin.Media.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.Android.dll.config
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.dll.config
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLite-net.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.Android.dll.config
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.Android.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.Android.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\dk.ei.opgaveapp.apk
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\dk.ei.opgaveapp-Signed.apk
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\FormsViewGroup.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Newtonsoft.Json.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.CurrentActivity.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.Abstractions.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.Abstractions.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.Abstractions.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLite-net.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLitePCLRaw.batteries_green.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLitePCLRaw.core.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Annotations.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Compat.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Core.UI.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Design.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Fragment.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Transition.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.v4.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Platform.Android.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\XLabs.Core.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.dll.config
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\FormsViewGroup.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\FormsViewGroup.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Newtonsoft.Json.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.CurrentActivity.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.Abstractions.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.Abstractions.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.Abstractions.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.Abstractions.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.Abstractions.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLite-net.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLite-net.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Platform.Android.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\XLabs.Core.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\EI_OpgaveApp.Android.csprojResolveAssemblyReference.cache
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\EI_OpgaveApp.Android.csproj.CoreCompileInputs.cache
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\EI_OpgaveApp.Android.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\EI_OpgaveApp.Android.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\bin\dk.ei.opgaveapp.apk
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\layout\tabbar.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\layout\toolbar.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\values\styles.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\drawable\eistor.png
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\drawable\ic_launcher.png
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\drawable\icon.png
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\drawable-hdpi\icon.ico
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\drawable-xhdpi\icon.ico
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\drawable-xxhdpi\icon.ico
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\R.cs.flag
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\uploadflags.txt
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.Android.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.Abstractions.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLite-net.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\EI_OpgaveApp.Android.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\EI_OpgaveApp.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\FormsViewGroup.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Plugin.Geolocator.Abstractions.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Plugin.Geolocator.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Plugin.Media.Abstractions.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Plugin.Media.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Plugin.Permissions.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.Android.dll.config
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.Android.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.Android.pdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\dk.ei.opgaveapp.apk
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\dk.ei.opgaveapp-Signed.apk
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\FormsViewGroup.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Newtonsoft.Json.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.CurrentActivity.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.Abstractions.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.Abstractions.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.Abstractions.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLite-net.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLitePCLRaw.batteries_green.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLitePCLRaw.batteries_v2.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLitePCLRaw.core.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Annotations.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Compat.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Core.UI.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Core.Utils.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Design.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Fragment.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Media.Compat.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Transition.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.v4.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.v7.AppCompat.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.v7.CardView.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.v7.Palette.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Android.Support.Vector.Drawable.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Core.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Platform.Android.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Platform.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Xaml.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\XLabs.Core.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.pdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.dll.config
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.dll.mdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\FormsViewGroup.pdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\FormsViewGroup.dll.mdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Newtonsoft.Json.xml
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.CurrentActivity.xml
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.pdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.xml
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.dll.mdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.Abstractions.pdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.Abstractions.xml
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Geolocator.Abstractions.dll.mdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.pdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.xml
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.dll.mdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.Abstractions.pdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.Abstractions.xml
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.pdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.xml
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.dll.mdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.Abstractions.pdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.Abstractions.xml
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLite-net.pdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLite-net.xml
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Core.pdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Core.xml
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Platform.Android.pdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Xaml.xml
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\XLabs.Core.xml
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\EI_OpgaveApp.Android.csprojResolveAssemblyReference.cache
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\EI_OpgaveApp.Android.csproj.CoreCompileInputs.cache
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\EI_OpgaveApp.Android.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\EI_OpgaveApp.Android.pdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\bin\dk.ei.opgaveapp.apk
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\layout\tabbar.xml
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\layout\toolbar.xml
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\values\styles.xml
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\drawable\eistor.png
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\drawable\ic_launcher.png
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\drawable\icon.png
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\drawable-hdpi\icon.ico
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\drawable-xhdpi\icon.ico
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\res\drawable-xxhdpi\icon.ico
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\R.cs.flag
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\uploadflags.txt
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\EI_OpgaveApp.Android.dll.mdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Media.Abstractions.dll.mdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\Plugin.Permissions.Abstractions.dll.mdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\bin\Release\SQLite-net.dll.mdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\EI_OpgaveApp.Android.dll.mdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\EI_OpgaveApp.dll.mdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\FormsViewGroup.dll.mdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Plugin.Geolocator.Abstractions.dll.mdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Plugin.Geolocator.dll.mdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Plugin.Media.Abstractions.dll.mdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Plugin.Media.dll.mdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Plugin.Permissions.Abstractions.dll.mdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Plugin.Permissions.dll.mdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb

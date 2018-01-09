@@ -1,0 +1,178 @@
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\EI_OpgaveApp.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\EI_OpgaveApp.pdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\Newtonsoft.Json.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Geolocator.Abstractions.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Geolocator.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Media.Abstractions.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Media.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\SQLite-net.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\SQLitePCLRaw.batteries_green.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\SQLitePCLRaw.core.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\System.Net.Http.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\XLabs.Core.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\System.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\System.Core.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\Mono.Security.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\System.Xml.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\Newtonsoft.Json.xml
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Geolocator.pdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Geolocator.xml
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Geolocator.Abstractions.pdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Geolocator.Abstractions.xml
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Media.pdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Media.xml
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Media.Abstractions.pdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Media.Abstractions.xml
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\SQLite-net.xml
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\System.Net.Http.pdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Platform.pdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\XLabs.Core.xml
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\System.pdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\System.xml
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\System.Core.pdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\System.Core.xml
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\Mono.Security.pdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\Mono.Security.xml
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\System.Xml.pdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\bin\Release\System.Xml.xml
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\obj\Release\EI_OpgaveApp.dll
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\obj\Release\EI_OpgaveApp.pdb
+C:\Users\klaus\Desktop\EI OpgaveApp\EI OpgaveApp\EI_OpgaveApp\obj\Release\EI_OpgaveApp.csprojResolveAssemblyReference.cache
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\obj\Release\EI_OpgaveApp.csprojResolveAssemblyReference.cache
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\obj\Release\EI_OpgaveApp.csproj.CoreCompileInputs.cache
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\obj\Release\EI_OpgaveApp.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\obj\Release\EI_OpgaveApp.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\obj\Release\EI_OpgaveApp.csproj.App.config
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\EI_OpgaveApp.dll.config
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\EI_OpgaveApp.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\EI_OpgaveApp.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\Newtonsoft.Json.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Geolocator.Abstractions.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Geolocator.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Media.Abstractions.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Media.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\SQLite-net.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\SQLitePCLRaw.batteries_green.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\SQLitePCLRaw.core.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\System.Net.Http.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\XLabs.Core.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\Newtonsoft.Json.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Geolocator.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Geolocator.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Geolocator.Abstractions.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Media.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Media.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Media.Abstractions.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Media.Abstractions.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\SQLite-net.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\SQLite-net.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\System.Net.Http.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Platform.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-master\EI OpgaveApp\EI_OpgaveApp\bin\Release\XLabs.Core.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\EI_OpgaveApp.dll.config
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\EI_OpgaveApp.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\EI_OpgaveApp.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\Newtonsoft.Json.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Geolocator.Abstractions.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Geolocator.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Media.Abstractions.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Media.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\SQLite-net.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\SQLitePCLRaw.batteries_green.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\SQLitePCLRaw.batteries_v2.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\SQLitePCLRaw.core.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\System.Net.Http.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\System.Net.Http.Extensions.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\System.Net.Http.Primitives.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Core.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Platform.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Xaml.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\XLabs.Core.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\Newtonsoft.Json.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Geolocator.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Geolocator.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Geolocator.Abstractions.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Media.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Media.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Media.Abstractions.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Media.Abstractions.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\SQLite-net.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\SQLite-net.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\System.Net.Http.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\System.Net.Http.Extensions.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\System.Net.Http.Primitives.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Core.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Core.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Platform.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Xaml.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\bin\Release\XLabs.Core.xml
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\obj\Release\EI_OpgaveApp.csproj.App.config
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\obj\Release\EI_OpgaveApp.csprojResolveAssemblyReference.cache
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\obj\Release\EI_OpgaveApp.csproj.CoreCompileInputs.cache
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\obj\Release\EI_OpgaveApp.dll
+C:\Users\klaus\Desktop\EI_OpgaveApp-masterUpdated\EI OpgaveApp\EI_OpgaveApp\obj\Release\EI_OpgaveApp.pdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\EI_OpgaveApp.dll.config
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\EI_OpgaveApp.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\EI_OpgaveApp.pdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\Newtonsoft.Json.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Geolocator.Abstractions.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Geolocator.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Media.Abstractions.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Media.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\SQLite-net.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\SQLitePCLRaw.batteries_green.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\SQLitePCLRaw.batteries_v2.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\SQLitePCLRaw.core.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\System.Net.Http.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\System.Net.Http.Extensions.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\System.Net.Http.Primitives.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Core.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Platform.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Xaml.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\XLabs.Core.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\Newtonsoft.Json.xml
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Geolocator.pdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Geolocator.xml
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Geolocator.Abstractions.pdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Geolocator.Abstractions.xml
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Media.pdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Media.xml
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Media.Abstractions.pdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\Plugin.Media.Abstractions.xml
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\SQLite-net.pdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\SQLite-net.xml
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\System.Net.Http.xml
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\System.Net.Http.Extensions.xml
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\System.Net.Http.Primitives.xml
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Core.pdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Core.xml
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Platform.pdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Xaml.pdb
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\Xamarin.Forms.Xaml.xml
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\bin\Release\XLabs.Core.xml
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\obj\Release\EI_OpgaveApp.csproj.App.config
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\obj\Release\EI_OpgaveApp.csprojResolveAssemblyReference.cache
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\obj\Release\EI_OpgaveApp.csproj.CoreCompileInputs.cache
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\obj\Release\EI_OpgaveApp.dll
+C:\EI_OpgaveApp HTM\EI OpgaveApp\EI_OpgaveApp\obj\Release\EI_OpgaveApp.pdb
