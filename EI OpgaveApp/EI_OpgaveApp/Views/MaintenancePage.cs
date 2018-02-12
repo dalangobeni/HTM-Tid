@@ -267,9 +267,9 @@ namespace EI_OpgaveApp.Views
 
         async void Lv_Refreshing(object sender, EventArgs e)
         {
-            await syncFacade.MaintenanceActivitySynchronizer.SyncDatabaseWithNAV();
-            syncFacade.JobRecLineSynchronizer.SyncDatabaseWithNAV();
-            await syncFacade.MaintenanceTaskSynchronizer.SyncDatabaseWithNAV();
+
+            ThreadManager manager = new ThreadManager();
+            manager.Sync();
 
             UpdateItemSource();
             if (lv.IsRefreshing)

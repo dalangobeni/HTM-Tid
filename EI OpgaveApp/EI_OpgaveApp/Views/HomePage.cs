@@ -143,10 +143,11 @@ namespace EI_OpgaveApp.Views
 
             image = new Image();
 
-            image.Source = "eistor.png";
+            //image.Source = "eistor.png";
+            image.Source = "HTM.jpg";
             image.Opacity = 0.7;
             image.VerticalOptions = LayoutOptions.Start;
-            image.Scale = 0.7;
+            image.Scale = 0.6;
             image.GestureRecognizers.Add(tapGestureRecognizer);
         }
 
@@ -251,6 +252,8 @@ namespace EI_OpgaveApp.Views
             {
                 gd.TabbedPage.Children.Remove(item);
             }
+            ThreadManager manager = new ThreadManager();
+            manager.Sync();
             gd.TabbedPage.Children.Add(gd.LoginPage);
 
         }
@@ -351,7 +354,8 @@ namespace EI_OpgaveApp.Views
             }
             if (temp2 != null)
             {
-                currentJobRecLabel.Text = "Der er startet en opgave klokken: " + temp2.Start_Time.AddHours(1).ToString("HH:mm") + " på opgave nr.: " + temp2.TaskNo + "\nDu arbejder på:  " + temp2.Work_Type_And_Machine;
+                MaintenanceTask task = await db.GetTaskAsync(temp2.TaskGUID);
+                currentJobRecLabel.Text = "Der er startet en opgave klokken: " + temp2.Start_Time.AddHours(1).ToString("HH:mm") + " på opgave nr.: " + temp2.TaskNo + " - " + task.CustomerName + "\n\nDu arbejder på:  " + temp2.Work_Type_And_Machine;
             }
             else
             {

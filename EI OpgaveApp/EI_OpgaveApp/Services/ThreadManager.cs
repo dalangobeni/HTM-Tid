@@ -13,29 +13,36 @@ namespace EI_OpgaveApp.Services
     {
         SynchronizerFacade facade = SynchronizerFacade.GetInstance;
         int i;
-        public void StartSynchronizationThread()
+        public async void StartSynchronizationThread()
         {
-            i = 0;
-            if (!GlobalData.GetInstance.Done)
-            {
-                Device.StartTimer(TimeSpan.FromMinutes(1), () =>
-                {
-                    sync();
-                    return true;
-                });
-            }
-            //while (!done)
+            //i = 0;
+            //if (!GlobalData.GetInstance.Done)
             //{
-            //    await Task.Run(async () =>
+            //    Device.StartTimer(TimeSpan.FromMinutes(5), () =>
             //    {
-            //        sync
-            //         i++;
+            //        if (!GlobalData.GetInstance.Done)
+            //        {
+            //            sync();
+            //            return true;
+            //        }
+            //        else
+            //        {
+            //            return false;
+            //        }
             //    });
-            //    await Task.Delay(;
             //}
+            while (true)
+            {
+                if (!GlobalData.GetInstance.Done)
+                {
+                    Sync();
+                }
+                await Task.Delay(180000);
+
+            }
         }
 
-        private async void sync()
+        public async void Sync()
         {
             await facade.MaintenanceTaskSynchronizer.SyncDatabaseWithNAV();
             await facade.TimeRegistrationSynchronizer.SyncDatabaseWithNAV();

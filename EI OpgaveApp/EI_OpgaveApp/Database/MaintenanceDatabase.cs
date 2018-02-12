@@ -39,9 +39,9 @@ namespace EI_OpgaveApp.Database
             return database.Table<MaintenanceTask>().ToListAsync();
         }
 
-        public Task<MaintenanceTask> GetTaskAsync(string id)
+        public Task<MaintenanceTask> GetTaskAsync(Guid id)
         {
-            return database.Table<MaintenanceTask>().Where(i => i.no == id).FirstOrDefaultAsync();
+            return database.Table<MaintenanceTask>().Where(i => i.TaskGUID == id).FirstOrDefaultAsync();
         }
 
         public Task<int> SaveTaskAsync(MaintenanceTask task)

@@ -1,2 +1,2 @@
 android.app.Application
-dk.ei.opgaveapp
+dk.ei.tid

@@ -1,5 +1,6 @@
 ﻿using EI_OpgaveApp.Database;
 using EI_OpgaveApp.Models;
+using EI_OpgaveApp.Services;
 using EI_OpgaveApp.Synchronizers;
 using EI_OpgaveApp.Views.Custom_Cells;
 using Plugin.Geolocator;
@@ -142,7 +143,8 @@ namespace EI_OpgaveApp.Views
                 temp2.End_Time = DateTime.UtcNow;
                 await db.UpdateJobRecLineAsync(temp2);
             }
-
+            ThreadManager manager = new ThreadManager();
+            manager.Sync();
         }
 
         private async void CheckIn_Clicked(object sender, EventArgs e)

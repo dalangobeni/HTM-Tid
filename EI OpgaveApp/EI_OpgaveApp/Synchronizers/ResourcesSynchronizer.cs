@@ -13,7 +13,7 @@ namespace EI_OpgaveApp.Synchronizers
     {
         List<Resources> onlineList;
         List<Resources> localList;
-        
+
 
         ServiceFacade facade = ServiceFacade.GetInstance;
         MaintenanceDatabase db = App.Database;
@@ -56,9 +56,10 @@ namespace EI_OpgaveApp.Synchronizers
 
         private void SaveNewWorkTypes()
         {
-            bool match = false;
+
             foreach (var item in onlineList)
             {
+                bool match = false;
                 foreach (var item2 in localList)
                 {
                     if (item.No == item2.No && item.ETag != item2.ETag)
@@ -81,10 +82,18 @@ namespace EI_OpgaveApp.Synchronizers
         {
             foreach (var item in localList)
             {
-                if (facade.WorkTypeService.GetWorkTypeAsync(item.No) == null)
+                int matches = 0;
+                foreach (var onlineItem in onlineList)
                 {
-                    await db.DeleteResourcesAsync(item);
-                };
+                    if (item.No == onlineItem.No)
+                    {
+                        matches++;
+                    }
+                }
+                if (matches == 0)
+                {
+                    await App.Database.DeleteResourcesAsync(item);
+                }
             }
         }
 

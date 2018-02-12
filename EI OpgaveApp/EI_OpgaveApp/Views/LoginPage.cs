@@ -153,7 +153,8 @@ namespace EI_OpgaveApp.Views
                         password.Text = null;
                         //if (Device.OS != TargetPlatform.iOS)
                         //{
-                        facade.ThreadManager.StartSynchronizationThread();
+                        Task t = Task.Factory.StartNew(() => facade.ThreadManager.StartSynchronizationThread());
+                        //t.Start();
                         //}
                         ConnectionSettings cs = db.GetConnectionSetting(0).Result;
                         cs.LastUser = person.No;

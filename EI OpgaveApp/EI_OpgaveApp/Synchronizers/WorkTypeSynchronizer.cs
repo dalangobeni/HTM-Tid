@@ -55,9 +55,10 @@ namespace EI_OpgaveApp.Synchronizers
 
         private void SaveNewWorkTypes()
         {
-            bool match = false;
+
             foreach (var item in onlineList)
             {
+                bool match = false;
                 foreach (var item2 in localList)
                 {
                     if (item.Code == item2.Code && item.ETag != item2.ETag)
@@ -80,10 +81,18 @@ namespace EI_OpgaveApp.Synchronizers
         {
             foreach (var item in localList)
             {
-                if (facade.WorkTypeService.GetWorkTypeAsync(item.Code) == null)
+                int matches = 0;
+                foreach (var onlineItem in onlineList)
                 {
-                    await db.DeleteWorkTypeAsync(item);
-                };
+                    if (item.Code == onlineItem.Code)
+                    {
+                        matches++;
+                    }
+                }
+                if (matches == 0)
+                {
+                    await App.Database.DeleteWorkTypeAsync(item);
+                }
             }
         }
 

@@ -56,9 +56,10 @@ namespace EI_OpgaveApp.Synchronizers
 
         private void SaveNewWorkTypes()
         {
-            bool match = false;
+
             foreach (var item in onlineList)
             {
+                bool match = false;
                 foreach (var item2 in localList)
                 {
                     if (item.No == item2.No && item.ETag != item2.ETag)
@@ -81,10 +82,18 @@ namespace EI_OpgaveApp.Synchronizers
         {
             foreach (var item in localList)
             {
-                if (facade.ResourcePersonService.GetResroucePerson(item.No) == null)
+                int matches = 0;
+                foreach (var onlineItem in onlineList)
                 {
-                    await db.DeleteResourcePersonAsync(item);
-                };
+                    if (item.No == onlineItem.No)
+                    {
+                        matches++;
+                    }
+                }
+                if (matches == 0)
+                {
+                    await App.Database.DeleteResourcePersonAsync(item);
+                }
             }
         }
 

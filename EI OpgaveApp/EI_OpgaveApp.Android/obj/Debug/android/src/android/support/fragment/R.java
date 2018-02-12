@@ -2825,13 +2825,13 @@ containing a value of this type.
         public static final int abc_textfield_search_material=0x7f020051;
         public static final int abc_vector_test=0x7f020052;
         public static final int avd_hide_password=0x7f020053;
-        public static final int avd_hide_password_1=0x7f020110;
-        public static final int avd_hide_password_2=0x7f020111;
-        public static final int avd_hide_password_3=0x7f020112;
+        public static final int avd_hide_password_1=0x7f020111;
+        public static final int avd_hide_password_2=0x7f020112;
+        public static final int avd_hide_password_3=0x7f020113;
         public static final int avd_show_password=0x7f020054;
-        public static final int avd_show_password_1=0x7f020113;
-        public static final int avd_show_password_2=0x7f020114;
-        public static final int avd_show_password_3=0x7f020115;
+        public static final int avd_show_password_1=0x7f020114;
+        public static final int avd_show_password_2=0x7f020115;
+        public static final int avd_show_password_3=0x7f020116;
         public static final int design_bottom_navigation_item_background=0x7f020055;
         public static final int design_fab_background=0x7f020056;
         public static final int design_ic_visibility=0x7f020057;
@@ -2839,186 +2839,187 @@ containing a value of this type.
         public static final int design_password_eye=0x7f020059;
         public static final int design_snackbar_background=0x7f02005a;
         public static final int eistor=0x7f02005b;
-        public static final int ic_audiotrack_dark=0x7f02005c;
-        public static final int ic_audiotrack_light=0x7f02005d;
-        public static final int ic_dialog_close_dark=0x7f02005e;
-        public static final int ic_dialog_close_light=0x7f02005f;
-        public static final int ic_group_collapse_00=0x7f020060;
-        public static final int ic_group_collapse_01=0x7f020061;
-        public static final int ic_group_collapse_02=0x7f020062;
-        public static final int ic_group_collapse_03=0x7f020063;
-        public static final int ic_group_collapse_04=0x7f020064;
-        public static final int ic_group_collapse_05=0x7f020065;
-        public static final int ic_group_collapse_06=0x7f020066;
-        public static final int ic_group_collapse_07=0x7f020067;
-        public static final int ic_group_collapse_08=0x7f020068;
-        public static final int ic_group_collapse_09=0x7f020069;
-        public static final int ic_group_collapse_10=0x7f02006a;
-        public static final int ic_group_collapse_11=0x7f02006b;
-        public static final int ic_group_collapse_12=0x7f02006c;
-        public static final int ic_group_collapse_13=0x7f02006d;
-        public static final int ic_group_collapse_14=0x7f02006e;
-        public static final int ic_group_collapse_15=0x7f02006f;
-        public static final int ic_group_expand_00=0x7f020070;
-        public static final int ic_group_expand_01=0x7f020071;
-        public static final int ic_group_expand_02=0x7f020072;
-        public static final int ic_group_expand_03=0x7f020073;
-        public static final int ic_group_expand_04=0x7f020074;
-        public static final int ic_group_expand_05=0x7f020075;
-        public static final int ic_group_expand_06=0x7f020076;
-        public static final int ic_group_expand_07=0x7f020077;
-        public static final int ic_group_expand_08=0x7f020078;
-        public static final int ic_group_expand_09=0x7f020079;
-        public static final int ic_group_expand_10=0x7f02007a;
-        public static final int ic_group_expand_11=0x7f02007b;
-        public static final int ic_group_expand_12=0x7f02007c;
-        public static final int ic_group_expand_13=0x7f02007d;
-        public static final int ic_group_expand_14=0x7f02007e;
-        public static final int ic_group_expand_15=0x7f02007f;
-        public static final int ic_launcher=0x7f020080;
-        public static final int ic_media_pause_dark=0x7f020081;
-        public static final int ic_media_pause_light=0x7f020082;
-        public static final int ic_media_play_dark=0x7f020083;
-        public static final int ic_media_play_light=0x7f020084;
-        public static final int ic_media_stop_dark=0x7f020085;
-        public static final int ic_media_stop_light=0x7f020086;
-        public static final int ic_mr_button_connected_00_dark=0x7f020087;
-        public static final int ic_mr_button_connected_00_light=0x7f020088;
-        public static final int ic_mr_button_connected_01_dark=0x7f020089;
-        public static final int ic_mr_button_connected_01_light=0x7f02008a;
-        public static final int ic_mr_button_connected_02_dark=0x7f02008b;
-        public static final int ic_mr_button_connected_02_light=0x7f02008c;
-        public static final int ic_mr_button_connected_03_dark=0x7f02008d;
-        public static final int ic_mr_button_connected_03_light=0x7f02008e;
-        public static final int ic_mr_button_connected_04_dark=0x7f02008f;
-        public static final int ic_mr_button_connected_04_light=0x7f020090;
-        public static final int ic_mr_button_connected_05_dark=0x7f020091;
-        public static final int ic_mr_button_connected_05_light=0x7f020092;
-        public static final int ic_mr_button_connected_06_dark=0x7f020093;
-        public static final int ic_mr_button_connected_06_light=0x7f020094;
-        public static final int ic_mr_button_connected_07_dark=0x7f020095;
-        public static final int ic_mr_button_connected_07_light=0x7f020096;
-        public static final int ic_mr_button_connected_08_dark=0x7f020097;
-        public static final int ic_mr_button_connected_08_light=0x7f020098;
-        public static final int ic_mr_button_connected_09_dark=0x7f020099;
-        public static final int ic_mr_button_connected_09_light=0x7f02009a;
-        public static final int ic_mr_button_connected_10_dark=0x7f02009b;
-        public static final int ic_mr_button_connected_10_light=0x7f02009c;
-        public static final int ic_mr_button_connected_11_dark=0x7f02009d;
-        public static final int ic_mr_button_connected_11_light=0x7f02009e;
-        public static final int ic_mr_button_connected_12_dark=0x7f02009f;
-        public static final int ic_mr_button_connected_12_light=0x7f0200a0;
-        public static final int ic_mr_button_connected_13_dark=0x7f0200a1;
-        public static final int ic_mr_button_connected_13_light=0x7f0200a2;
-        public static final int ic_mr_button_connected_14_dark=0x7f0200a3;
-        public static final int ic_mr_button_connected_14_light=0x7f0200a4;
-        public static final int ic_mr_button_connected_15_dark=0x7f0200a5;
-        public static final int ic_mr_button_connected_15_light=0x7f0200a6;
-        public static final int ic_mr_button_connected_16_dark=0x7f0200a7;
-        public static final int ic_mr_button_connected_16_light=0x7f0200a8;
-        public static final int ic_mr_button_connected_17_dark=0x7f0200a9;
-        public static final int ic_mr_button_connected_17_light=0x7f0200aa;
-        public static final int ic_mr_button_connected_18_dark=0x7f0200ab;
-        public static final int ic_mr_button_connected_18_light=0x7f0200ac;
-        public static final int ic_mr_button_connected_19_dark=0x7f0200ad;
-        public static final int ic_mr_button_connected_19_light=0x7f0200ae;
-        public static final int ic_mr_button_connected_20_dark=0x7f0200af;
-        public static final int ic_mr_button_connected_20_light=0x7f0200b0;
-        public static final int ic_mr_button_connected_21_dark=0x7f0200b1;
-        public static final int ic_mr_button_connected_21_light=0x7f0200b2;
-        public static final int ic_mr_button_connected_22_dark=0x7f0200b3;
-        public static final int ic_mr_button_connected_22_light=0x7f0200b4;
-        public static final int ic_mr_button_connecting_00_dark=0x7f0200b5;
-        public static final int ic_mr_button_connecting_00_light=0x7f0200b6;
-        public static final int ic_mr_button_connecting_01_dark=0x7f0200b7;
-        public static final int ic_mr_button_connecting_01_light=0x7f0200b8;
-        public static final int ic_mr_button_connecting_02_dark=0x7f0200b9;
-        public static final int ic_mr_button_connecting_02_light=0x7f0200ba;
-        public static final int ic_mr_button_connecting_03_dark=0x7f0200bb;
-        public static final int ic_mr_button_connecting_03_light=0x7f0200bc;
-        public static final int ic_mr_button_connecting_04_dark=0x7f0200bd;
-        public static final int ic_mr_button_connecting_04_light=0x7f0200be;
-        public static final int ic_mr_button_connecting_05_dark=0x7f0200bf;
-        public static final int ic_mr_button_connecting_05_light=0x7f0200c0;
-        public static final int ic_mr_button_connecting_06_dark=0x7f0200c1;
-        public static final int ic_mr_button_connecting_06_light=0x7f0200c2;
-        public static final int ic_mr_button_connecting_07_dark=0x7f0200c3;
-        public static final int ic_mr_button_connecting_07_light=0x7f0200c4;
-        public static final int ic_mr_button_connecting_08_dark=0x7f0200c5;
-        public static final int ic_mr_button_connecting_08_light=0x7f0200c6;
-        public static final int ic_mr_button_connecting_09_dark=0x7f0200c7;
-        public static final int ic_mr_button_connecting_09_light=0x7f0200c8;
-        public static final int ic_mr_button_connecting_10_dark=0x7f0200c9;
-        public static final int ic_mr_button_connecting_10_light=0x7f0200ca;
-        public static final int ic_mr_button_connecting_11_dark=0x7f0200cb;
-        public static final int ic_mr_button_connecting_11_light=0x7f0200cc;
-        public static final int ic_mr_button_connecting_12_dark=0x7f0200cd;
-        public static final int ic_mr_button_connecting_12_light=0x7f0200ce;
-        public static final int ic_mr_button_connecting_13_dark=0x7f0200cf;
-        public static final int ic_mr_button_connecting_13_light=0x7f0200d0;
-        public static final int ic_mr_button_connecting_14_dark=0x7f0200d1;
-        public static final int ic_mr_button_connecting_14_light=0x7f0200d2;
-        public static final int ic_mr_button_connecting_15_dark=0x7f0200d3;
-        public static final int ic_mr_button_connecting_15_light=0x7f0200d4;
-        public static final int ic_mr_button_connecting_16_dark=0x7f0200d5;
-        public static final int ic_mr_button_connecting_16_light=0x7f0200d6;
-        public static final int ic_mr_button_connecting_17_dark=0x7f0200d7;
-        public static final int ic_mr_button_connecting_17_light=0x7f0200d8;
-        public static final int ic_mr_button_connecting_18_dark=0x7f0200d9;
-        public static final int ic_mr_button_connecting_18_light=0x7f0200da;
-        public static final int ic_mr_button_connecting_19_dark=0x7f0200db;
-        public static final int ic_mr_button_connecting_19_light=0x7f0200dc;
-        public static final int ic_mr_button_connecting_20_dark=0x7f0200dd;
-        public static final int ic_mr_button_connecting_20_light=0x7f0200de;
-        public static final int ic_mr_button_connecting_21_dark=0x7f0200df;
-        public static final int ic_mr_button_connecting_21_light=0x7f0200e0;
-        public static final int ic_mr_button_connecting_22_dark=0x7f0200e1;
-        public static final int ic_mr_button_connecting_22_light=0x7f0200e2;
-        public static final int ic_mr_button_disabled_dark=0x7f0200e3;
-        public static final int ic_mr_button_disabled_light=0x7f0200e4;
-        public static final int ic_mr_button_disconnected_dark=0x7f0200e5;
-        public static final int ic_mr_button_disconnected_light=0x7f0200e6;
-        public static final int ic_mr_button_grey=0x7f0200e7;
-        public static final int ic_vol_type_speaker_dark=0x7f0200e8;
-        public static final int ic_vol_type_speaker_group_dark=0x7f0200e9;
-        public static final int ic_vol_type_speaker_group_light=0x7f0200ea;
-        public static final int ic_vol_type_speaker_light=0x7f0200eb;
-        public static final int ic_vol_type_tv_dark=0x7f0200ec;
-        public static final int ic_vol_type_tv_light=0x7f0200ed;
-        public static final int icon=0x7f0200ee;
-        public static final int mr_button_connected_dark=0x7f0200ef;
-        public static final int mr_button_connected_light=0x7f0200f0;
-        public static final int mr_button_connecting_dark=0x7f0200f1;
-        public static final int mr_button_connecting_light=0x7f0200f2;
-        public static final int mr_button_dark=0x7f0200f3;
-        public static final int mr_button_light=0x7f0200f4;
-        public static final int mr_dialog_close_dark=0x7f0200f5;
-        public static final int mr_dialog_close_light=0x7f0200f6;
-        public static final int mr_dialog_material_background_dark=0x7f0200f7;
-        public static final int mr_dialog_material_background_light=0x7f0200f8;
-        public static final int mr_group_collapse=0x7f0200f9;
-        public static final int mr_group_expand=0x7f0200fa;
-        public static final int mr_media_pause_dark=0x7f0200fb;
-        public static final int mr_media_pause_light=0x7f0200fc;
-        public static final int mr_media_play_dark=0x7f0200fd;
-        public static final int mr_media_play_light=0x7f0200fe;
-        public static final int mr_media_stop_dark=0x7f0200ff;
-        public static final int mr_media_stop_light=0x7f020100;
-        public static final int mr_vol_type_audiotrack_dark=0x7f020101;
-        public static final int mr_vol_type_audiotrack_light=0x7f020102;
-        public static final int navigation_empty_icon=0x7f020103;
-        public static final int notification_action_background=0x7f020104;
-        public static final int notification_bg=0x7f020105;
-        public static final int notification_bg_low=0x7f020106;
-        public static final int notification_bg_low_normal=0x7f020107;
-        public static final int notification_bg_low_pressed=0x7f020108;
-        public static final int notification_bg_normal=0x7f020109;
-        public static final int notification_bg_normal_pressed=0x7f02010a;
-        public static final int notification_icon_background=0x7f02010b;
-        public static final int notification_template_icon_bg=0x7f02010e;
-        public static final int notification_template_icon_low_bg=0x7f02010f;
-        public static final int notification_tile_bg=0x7f02010c;
-        public static final int notify_panel_notification_icon_bg=0x7f02010d;
+        public static final int htm=0x7f02005c;
+        public static final int ic_audiotrack_dark=0x7f02005d;
+        public static final int ic_audiotrack_light=0x7f02005e;
+        public static final int ic_dialog_close_dark=0x7f02005f;
+        public static final int ic_dialog_close_light=0x7f020060;
+        public static final int ic_group_collapse_00=0x7f020061;
+        public static final int ic_group_collapse_01=0x7f020062;
+        public static final int ic_group_collapse_02=0x7f020063;
+        public static final int ic_group_collapse_03=0x7f020064;
+        public static final int ic_group_collapse_04=0x7f020065;
+        public static final int ic_group_collapse_05=0x7f020066;
+        public static final int ic_group_collapse_06=0x7f020067;
+        public static final int ic_group_collapse_07=0x7f020068;
+        public static final int ic_group_collapse_08=0x7f020069;
+        public static final int ic_group_collapse_09=0x7f02006a;
+        public static final int ic_group_collapse_10=0x7f02006b;
+        public static final int ic_group_collapse_11=0x7f02006c;
+        public static final int ic_group_collapse_12=0x7f02006d;
+        public static final int ic_group_collapse_13=0x7f02006e;
+        public static final int ic_group_collapse_14=0x7f02006f;
+        public static final int ic_group_collapse_15=0x7f020070;
+        public static final int ic_group_expand_00=0x7f020071;
+        public static final int ic_group_expand_01=0x7f020072;
+        public static final int ic_group_expand_02=0x7f020073;
+        public static final int ic_group_expand_03=0x7f020074;
+        public static final int ic_group_expand_04=0x7f020075;
+        public static final int ic_group_expand_05=0x7f020076;
+        public static final int ic_group_expand_06=0x7f020077;
+        public static final int ic_group_expand_07=0x7f020078;
+        public static final int ic_group_expand_08=0x7f020079;
+        public static final int ic_group_expand_09=0x7f02007a;
+        public static final int ic_group_expand_10=0x7f02007b;
+        public static final int ic_group_expand_11=0x7f02007c;
+        public static final int ic_group_expand_12=0x7f02007d;
+        public static final int ic_group_expand_13=0x7f02007e;
+        public static final int ic_group_expand_14=0x7f02007f;
+        public static final int ic_group_expand_15=0x7f020080;
+        public static final int ic_launcher=0x7f020081;
+        public static final int ic_media_pause_dark=0x7f020082;
+        public static final int ic_media_pause_light=0x7f020083;
+        public static final int ic_media_play_dark=0x7f020084;
+        public static final int ic_media_play_light=0x7f020085;
+        public static final int ic_media_stop_dark=0x7f020086;
+        public static final int ic_media_stop_light=0x7f020087;
+        public static final int ic_mr_button_connected_00_dark=0x7f020088;
+        public static final int ic_mr_button_connected_00_light=0x7f020089;
+        public static final int ic_mr_button_connected_01_dark=0x7f02008a;
+        public static final int ic_mr_button_connected_01_light=0x7f02008b;
+        public static final int ic_mr_button_connected_02_dark=0x7f02008c;
+        public static final int ic_mr_button_connected_02_light=0x7f02008d;
+        public static final int ic_mr_button_connected_03_dark=0x7f02008e;
+        public static final int ic_mr_button_connected_03_light=0x7f02008f;
+        public static final int ic_mr_button_connected_04_dark=0x7f020090;
+        public static final int ic_mr_button_connected_04_light=0x7f020091;
+        public static final int ic_mr_button_connected_05_dark=0x7f020092;
+        public static final int ic_mr_button_connected_05_light=0x7f020093;
+        public static final int ic_mr_button_connected_06_dark=0x7f020094;
+        public static final int ic_mr_button_connected_06_light=0x7f020095;
+        public static final int ic_mr_button_connected_07_dark=0x7f020096;
+        public static final int ic_mr_button_connected_07_light=0x7f020097;
+        public static final int ic_mr_button_connected_08_dark=0x7f020098;
+        public static final int ic_mr_button_connected_08_light=0x7f020099;
+        public static final int ic_mr_button_connected_09_dark=0x7f02009a;
+        public static final int ic_mr_button_connected_09_light=0x7f02009b;
+        public static final int ic_mr_button_connected_10_dark=0x7f02009c;
+        public static final int ic_mr_button_connected_10_light=0x7f02009d;
+        public static final int ic_mr_button_connected_11_dark=0x7f02009e;
+        public static final int ic_mr_button_connected_11_light=0x7f02009f;
+        public static final int ic_mr_button_connected_12_dark=0x7f0200a0;
+        public static final int ic_mr_button_connected_12_light=0x7f0200a1;
+        public static final int ic_mr_button_connected_13_dark=0x7f0200a2;
+        public static final int ic_mr_button_connected_13_light=0x7f0200a3;
+        public static final int ic_mr_button_connected_14_dark=0x7f0200a4;
+        public static final int ic_mr_button_connected_14_light=0x7f0200a5;
+        public static final int ic_mr_button_connected_15_dark=0x7f0200a6;
+        public static final int ic_mr_button_connected_15_light=0x7f0200a7;
+        public static final int ic_mr_button_connected_16_dark=0x7f0200a8;
+        public static final int ic_mr_button_connected_16_light=0x7f0200a9;
+        public static final int ic_mr_button_connected_17_dark=0x7f0200aa;
+        public static final int ic_mr_button_connected_17_light=0x7f0200ab;
+        public static final int ic_mr_button_connected_18_dark=0x7f0200ac;
+        public static final int ic_mr_button_connected_18_light=0x7f0200ad;
+        public static final int ic_mr_button_connected_19_dark=0x7f0200ae;
+        public static final int ic_mr_button_connected_19_light=0x7f0200af;
+        public static final int ic_mr_button_connected_20_dark=0x7f0200b0;
+        public static final int ic_mr_button_connected_20_light=0x7f0200b1;
+        public static final int ic_mr_button_connected_21_dark=0x7f0200b2;
+        public static final int ic_mr_button_connected_21_light=0x7f0200b3;
+        public static final int ic_mr_button_connected_22_dark=0x7f0200b4;
+        public static final int ic_mr_button_connected_22_light=0x7f0200b5;
+        public static final int ic_mr_button_connecting_00_dark=0x7f0200b6;
+        public static final int ic_mr_button_connecting_00_light=0x7f0200b7;
+        public static final int ic_mr_button_connecting_01_dark=0x7f0200b8;
+        public static final int ic_mr_button_connecting_01_light=0x7f0200b9;
+        public static final int ic_mr_button_connecting_02_dark=0x7f0200ba;
+        public static final int ic_mr_button_connecting_02_light=0x7f0200bb;
+        public static final int ic_mr_button_connecting_03_dark=0x7f0200bc;
+        public static final int ic_mr_button_connecting_03_light=0x7f0200bd;
+        public static final int ic_mr_button_connecting_04_dark=0x7f0200be;
+        public static final int ic_mr_button_connecting_04_light=0x7f0200bf;
+        public static final int ic_mr_button_connecting_05_dark=0x7f0200c0;
+        public static final int ic_mr_button_connecting_05_light=0x7f0200c1;
+        public static final int ic_mr_button_connecting_06_dark=0x7f0200c2;
+        public static final int ic_mr_button_connecting_06_light=0x7f0200c3;
+        public static final int ic_mr_button_connecting_07_dark=0x7f0200c4;
+        public static final int ic_mr_button_connecting_07_light=0x7f0200c5;
+        public static final int ic_mr_button_connecting_08_dark=0x7f0200c6;
+        public static final int ic_mr_button_connecting_08_light=0x7f0200c7;
+        public static final int ic_mr_button_connecting_09_dark=0x7f0200c8;
+        public static final int ic_mr_button_connecting_09_light=0x7f0200c9;
+        public static final int ic_mr_button_connecting_10_dark=0x7f0200ca;
+        public static final int ic_mr_button_connecting_10_light=0x7f0200cb;
+        public static final int ic_mr_button_connecting_11_dark=0x7f0200cc;
+        public static final int ic_mr_button_connecting_11_light=0x7f0200cd;
+        public static final int ic_mr_button_connecting_12_dark=0x7f0200ce;
+        public static final int ic_mr_button_connecting_12_light=0x7f0200cf;
+        public static final int ic_mr_button_connecting_13_dark=0x7f0200d0;
+        public static final int ic_mr_button_connecting_13_light=0x7f0200d1;
+        public static final int ic_mr_button_connecting_14_dark=0x7f0200d2;
+        public static final int ic_mr_button_connecting_14_light=0x7f0200d3;
+        public static final int ic_mr_button_connecting_15_dark=0x7f0200d4;
+        public static final int ic_mr_button_connecting_15_light=0x7f0200d5;
+        public static final int ic_mr_button_connecting_16_dark=0x7f0200d6;
+        public static final int ic_mr_button_connecting_16_light=0x7f0200d7;
+        public static final int ic_mr_button_connecting_17_dark=0x7f0200d8;
+        public static final int ic_mr_button_connecting_17_light=0x7f0200d9;
+        public static final int ic_mr_button_connecting_18_dark=0x7f0200da;
+        public static final int ic_mr_button_connecting_18_light=0x7f0200db;
+        public static final int ic_mr_button_connecting_19_dark=0x7f0200dc;
+        public static final int ic_mr_button_connecting_19_light=0x7f0200dd;
+        public static final int ic_mr_button_connecting_20_dark=0x7f0200de;
+        public static final int ic_mr_button_connecting_20_light=0x7f0200df;
+        public static final int ic_mr_button_connecting_21_dark=0x7f0200e0;
+        public static final int ic_mr_button_connecting_21_light=0x7f0200e1;
+        public static final int ic_mr_button_connecting_22_dark=0x7f0200e2;
+        public static final int ic_mr_button_connecting_22_light=0x7f0200e3;
+        public static final int ic_mr_button_disabled_dark=0x7f0200e4;
+        public static final int ic_mr_button_disabled_light=0x7f0200e5;
+        public static final int ic_mr_button_disconnected_dark=0x7f0200e6;
+        public static final int ic_mr_button_disconnected_light=0x7f0200e7;
+        public static final int ic_mr_button_grey=0x7f0200e8;
+        public static final int ic_vol_type_speaker_dark=0x7f0200e9;
+        public static final int ic_vol_type_speaker_group_dark=0x7f0200ea;
+        public static final int ic_vol_type_speaker_group_light=0x7f0200eb;
+        public static final int ic_vol_type_speaker_light=0x7f0200ec;
+        public static final int ic_vol_type_tv_dark=0x7f0200ed;
+        public static final int ic_vol_type_tv_light=0x7f0200ee;
+        public static final int icon=0x7f0200ef;
+        public static final int mr_button_connected_dark=0x7f0200f0;
+        public static final int mr_button_connected_light=0x7f0200f1;
+        public static final int mr_button_connecting_dark=0x7f0200f2;
+        public static final int mr_button_connecting_light=0x7f0200f3;
+        public static final int mr_button_dark=0x7f0200f4;
+        public static final int mr_button_light=0x7f0200f5;
+        public static final int mr_dialog_close_dark=0x7f0200f6;
+        public static final int mr_dialog_close_light=0x7f0200f7;
+        public static final int mr_dialog_material_background_dark=0x7f0200f8;
+        public static final int mr_dialog_material_background_light=0x7f0200f9;
+        public static final int mr_group_collapse=0x7f0200fa;
+        public static final int mr_group_expand=0x7f0200fb;
+        public static final int mr_media_pause_dark=0x7f0200fc;
+        public static final int mr_media_pause_light=0x7f0200fd;
+        public static final int mr_media_play_dark=0x7f0200fe;
+        public static final int mr_media_play_light=0x7f0200ff;
+        public static final int mr_media_stop_dark=0x7f020100;
+        public static final int mr_media_stop_light=0x7f020101;
+        public static final int mr_vol_type_audiotrack_dark=0x7f020102;
+        public static final int mr_vol_type_audiotrack_light=0x7f020103;
+        public static final int navigation_empty_icon=0x7f020104;
+        public static final int notification_action_background=0x7f020105;
+        public static final int notification_bg=0x7f020106;
+        public static final int notification_bg_low=0x7f020107;
+        public static final int notification_bg_low_normal=0x7f020108;
+        public static final int notification_bg_low_pressed=0x7f020109;
+        public static final int notification_bg_normal=0x7f02010a;
+        public static final int notification_bg_normal_pressed=0x7f02010b;
+        public static final int notification_icon_background=0x7f02010c;
+        public static final int notification_template_icon_bg=0x7f02010f;
+        public static final int notification_template_icon_low_bg=0x7f020110;
+        public static final int notification_tile_bg=0x7f02010d;
+        public static final int notify_panel_notification_icon_bg=0x7f02010e;
     }
     public static final class id {
         public static final int action0=0x7f08009e;
@@ -3763,35 +3764,35 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background dk.ei.opgaveapp:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit dk.ei.opgaveapp:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked dk.ei.opgaveapp:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd dk.ei.opgaveapp:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions dk.ei.opgaveapp:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft dk.ei.opgaveapp:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight dk.ei.opgaveapp:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart dk.ei.opgaveapp:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation dk.ei.opgaveapp:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout dk.ei.opgaveapp:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions dk.ei.opgaveapp:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider dk.ei.opgaveapp:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation dk.ei.opgaveapp:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height dk.ei.opgaveapp:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll dk.ei.opgaveapp:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator dk.ei.opgaveapp:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout dk.ei.opgaveapp:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon dk.ei.opgaveapp:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle dk.ei.opgaveapp:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding dk.ei.opgaveapp:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo dk.ei.opgaveapp:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode dk.ei.opgaveapp:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme dk.ei.opgaveapp:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding dk.ei.opgaveapp:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle dk.ei.opgaveapp:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle dk.ei.opgaveapp:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle dk.ei.opgaveapp:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title dk.ei.opgaveapp:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle dk.ei.opgaveapp:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background dk.ei.tid:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit dk.ei.tid:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked dk.ei.tid:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd dk.ei.tid:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions dk.ei.tid:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft dk.ei.tid:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight dk.ei.tid:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart dk.ei.tid:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation dk.ei.tid:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout dk.ei.tid:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions dk.ei.tid:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider dk.ei.tid:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation dk.ei.tid:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height dk.ei.tid:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll dk.ei.tid:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator dk.ei.tid:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout dk.ei.tid:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon dk.ei.tid:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle dk.ei.tid:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding dk.ei.tid:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo dk.ei.tid:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode dk.ei.tid:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme dk.ei.tid:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding dk.ei.tid:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle dk.ei.tid:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle dk.ei.tid:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle dk.ei.tid:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title dk.ei.tid:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle dk.ei.tid:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -3834,17 +3835,17 @@ containing a value of this type.
             0x7f010079
         };
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#background}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:background
+          @attr name dk.ei.tid:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3852,11 +3853,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name dk.ei.opgaveapp:backgroundSplit
+          @attr name dk.ei.tid:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3864,11 +3865,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name dk.ei.opgaveapp:backgroundStacked
+          @attr name dk.ei.tid:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3880,11 +3881,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:contentInsetEnd
+          @attr name dk.ei.tid:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3896,11 +3897,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:contentInsetEndWithActions
+          @attr name dk.ei.tid:contentInsetEndWithActions
         */
         public static final int ActionBar_contentInsetEndWithActions = 25;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3912,11 +3913,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:contentInsetLeft
+          @attr name dk.ei.tid:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3928,11 +3929,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:contentInsetRight
+          @attr name dk.ei.tid:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3944,11 +3945,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:contentInsetStart
+          @attr name dk.ei.tid:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3960,21 +3961,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:contentInsetStartWithNavigation
+          @attr name dk.ei.tid:contentInsetStartWithNavigation
         */
         public static final int ActionBar_contentInsetStartWithNavigation = 24;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:customNavigationLayout
+          @attr name dk.ei.tid:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3992,21 +3993,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name dk.ei.opgaveapp:displayOptions
+          @attr name dk.ei.tid:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#divider}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:divider
+          @attr name dk.ei.tid:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#elevation}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4018,11 +4019,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:elevation
+          @attr name dk.ei.tid:elevation
         */
         public static final int ActionBar_elevation = 26;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#height}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4034,11 +4035,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:height
+          @attr name dk.ei.tid:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4048,51 +4049,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:hideOnContentScroll
+          @attr name dk.ei.tid:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:homeAsUpIndicator
+          @attr name dk.ei.tid:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 28;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:homeLayout
+          @attr name dk.ei.tid:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#icon}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:icon
+          @attr name dk.ei.tid:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:indeterminateProgressStyle
+          @attr name dk.ei.tid:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4104,21 +4105,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:itemPadding
+          @attr name dk.ei.tid:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#logo}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:logo
+          @attr name dk.ei.tid:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4132,21 +4133,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name dk.ei.opgaveapp:navigationMode
+          @attr name dk.ei.tid:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:popupTheme
+          @attr name dk.ei.tid:popupTheme
         */
         public static final int ActionBar_popupTheme = 27;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4158,21 +4159,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:progressBarPadding
+          @attr name dk.ei.tid:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:progressBarStyle
+          @attr name dk.ei.tid:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4182,21 +4183,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:subtitle
+          @attr name dk.ei.tid:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:subtitleTextStyle
+          @attr name dk.ei.tid:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#title}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -4206,17 +4207,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:title
+          @attr name dk.ei.tid:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:titleTextStyle
+          @attr name dk.ei.tid:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -4268,12 +4269,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background dk.ei.opgaveapp:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit dk.ei.opgaveapp:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout dk.ei.opgaveapp:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height dk.ei.opgaveapp:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle dk.ei.opgaveapp:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle dk.ei.opgaveapp:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background dk.ei.tid:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit dk.ei.tid:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout dk.ei.tid:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height dk.ei.tid:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle dk.ei.tid:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle dk.ei.tid:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -4287,17 +4288,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01002a, 0x7f01003a
         };
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#background}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:background
+          @attr name dk.ei.tid:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4305,21 +4306,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name dk.ei.opgaveapp:backgroundSplit
+          @attr name dk.ei.tid:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:closeItemLayout
+          @attr name dk.ei.tid:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#height}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4331,27 +4332,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:height
+          @attr name dk.ei.tid:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:subtitleTextStyle
+          @attr name dk.ei.tid:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:titleTextStyle
+          @attr name dk.ei.tid:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -4360,8 +4361,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable dk.ei.opgaveapp:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount dk.ei.opgaveapp:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable dk.ei.tid:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount dk.ei.tid:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -4370,17 +4371,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01003b, 0x7f01003c
         };
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:expandActivityOverflowButtonDrawable
+          @attr name dk.ei.tid:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -4390,7 +4391,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:initialActivityCount
+          @attr name dk.ei.tid:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -4400,12 +4401,12 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout dk.ei.opgaveapp:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout dk.ei.opgaveapp:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout dk.ei.opgaveapp:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout dk.ei.opgaveapp:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_showTitle dk.ei.opgaveapp:showTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout dk.ei.opgaveapp:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout dk.ei.tid:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout dk.ei.tid:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout dk.ei.tid:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout dk.ei.tid:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_showTitle dk.ei.tid:showTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout dk.ei.tid:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -4426,47 +4427,47 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:buttonPanelSideLayout
+          @attr name dk.ei.tid:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:listItemLayout
+          @attr name dk.ei.tid:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:listLayout
+          @attr name dk.ei.tid:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:multiChoiceItemLayout
+          @attr name dk.ei.tid:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#showTitle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#showTitle}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -4476,17 +4477,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:showTitle
+          @attr name dk.ei.tid:showTitle
         */
         public static final int AlertDialog_showTitle = 6;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:singleChoiceItemLayout
+          @attr name dk.ei.tid:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppBarLayout.
@@ -4496,8 +4497,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_elevation dk.ei.opgaveapp:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_expanded dk.ei.opgaveapp:expanded}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation dk.ei.tid:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_expanded dk.ei.tid:expanded}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_android_background
            @see #AppBarLayout_elevation
@@ -4513,7 +4514,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppBarLayout_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#elevation}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#elevation}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4525,11 +4526,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:elevation
+          @attr name dk.ei.tid:elevation
         */
         public static final int AppBarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#expanded}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#expanded}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4539,7 +4540,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:expanded
+          @attr name dk.ei.tid:expanded
         */
         public static final int AppBarLayout_expanded = 2;
         /** Attributes that can be used with a AppBarLayoutStates.
@@ -4548,8 +4549,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed dk.ei.opgaveapp:state_collapsed}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible dk.ei.opgaveapp:state_collapsible}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed dk.ei.tid:state_collapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible dk.ei.tid:state_collapsible}</code></td><td></td></tr>
            </table>
            @see #AppBarLayoutStates_state_collapsed
            @see #AppBarLayoutStates_state_collapsible
@@ -4558,7 +4559,7 @@ containing a value of this type.
             0x7f010104, 0x7f010105
         };
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#state_collapsed}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#state_collapsed}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4568,11 +4569,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:state_collapsed
+          @attr name dk.ei.tid:state_collapsed
         */
         public static final int AppBarLayoutStates_state_collapsed = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#state_collapsible}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#state_collapsible}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4582,7 +4583,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:state_collapsible
+          @attr name dk.ei.tid:state_collapsible
         */
         public static final int AppBarLayoutStates_state_collapsible = 1;
         /** Attributes that can be used with a AppBarLayout_Layout.
@@ -4591,8 +4592,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags dk.ei.opgaveapp:layout_scrollFlags}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator dk.ei.opgaveapp:layout_scrollInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags dk.ei.tid:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator dk.ei.tid:layout_scrollInterpolator}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_Layout_layout_scrollFlags
            @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -4601,7 +4602,7 @@ containing a value of this type.
             0x7f010106, 0x7f010107
         };
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#layout_scrollFlags}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#layout_scrollFlags}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
@@ -4617,17 +4618,17 @@ containing a value of this type.
 <tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
 <tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
 </table>
-          @attr name dk.ei.opgaveapp:layout_scrollFlags
+          @attr name dk.ei.tid:layout_scrollFlags
         */
         public static final int AppBarLayout_Layout_layout_scrollFlags = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#layout_scrollInterpolator}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#layout_scrollInterpolator}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:layout_scrollInterpolator
+          @attr name dk.ei.tid:layout_scrollInterpolator
         */
         public static final int AppBarLayout_Layout_layout_scrollInterpolator = 1;
         /** Attributes that can be used with a AppCompatImageView.
@@ -4637,9 +4638,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_srcCompat dk.ei.opgaveapp:srcCompat}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_tint dk.ei.opgaveapp:tint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_tintMode dk.ei.opgaveapp:tintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_srcCompat dk.ei.tid:srcCompat}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_tint dk.ei.tid:tint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_tintMode dk.ei.tid:tintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatImageView_android_src
            @see #AppCompatImageView_srcCompat
@@ -4656,17 +4657,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatImageView_android_src = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#srcCompat}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#srcCompat}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:srcCompat
+          @attr name dk.ei.tid:srcCompat
         */
         public static final int AppCompatImageView_srcCompat = 1;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#tint}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#tint}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
@@ -4677,11 +4678,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:tint
+          @attr name dk.ei.tid:tint
         */
         public static final int AppCompatImageView_tint = 2;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#tintMode}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#tintMode}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
@@ -4697,7 +4698,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name dk.ei.opgaveapp:tintMode
+          @attr name dk.ei.tid:tintMode
         */
         public static final int AppCompatImageView_tintMode = 3;
         /** Attributes that can be used with a AppCompatSeekBar.
@@ -4707,9 +4708,9 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMark dk.ei.opgaveapp:tickMark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint dk.ei.opgaveapp:tickMarkTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode dk.ei.opgaveapp:tickMarkTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMark dk.ei.tid:tickMark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint dk.ei.tid:tickMarkTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode dk.ei.tid:tickMarkTintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatSeekBar_android_thumb
            @see #AppCompatSeekBar_tickMark
@@ -4726,17 +4727,17 @@ containing a value of this type.
         */
         public static final int AppCompatSeekBar_android_thumb = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#tickMark}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#tickMark}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:tickMark
+          @attr name dk.ei.tid:tickMark
         */
         public static final int AppCompatSeekBar_tickMark = 1;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#tickMarkTint}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#tickMarkTint}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4747,11 +4748,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:tickMarkTint
+          @attr name dk.ei.tid:tickMarkTint
         */
         public static final int AppCompatSeekBar_tickMarkTint = 2;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#tickMarkTintMode}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#tickMarkTintMode}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4768,7 +4769,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name dk.ei.opgaveapp:tickMarkTintMode
+          @attr name dk.ei.tid:tickMarkTintMode
         */
         public static final int AppCompatSeekBar_tickMarkTintMode = 3;
         /** Attributes that can be used with a AppCompatTextHelper.
@@ -4846,7 +4847,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps dk.ei.opgaveapp:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps dk.ei.tid:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -4861,14 +4862,14 @@ containing a value of this type.
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name dk.ei.opgaveapp:textAllCaps
+          @attr name dk.ei.tid:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a AppCompatTheme.
@@ -4877,122 +4878,122 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarDivider dk.ei.opgaveapp:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground dk.ei.opgaveapp:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme dk.ei.opgaveapp:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSize dk.ei.opgaveapp:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle dk.ei.opgaveapp:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarStyle dk.ei.opgaveapp:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle dk.ei.opgaveapp:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle dk.ei.opgaveapp:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle dk.ei.opgaveapp:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTheme dk.ei.opgaveapp:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme dk.ei.opgaveapp:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle dk.ei.opgaveapp:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle dk.ei.opgaveapp:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance dk.ei.opgaveapp:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor dk.ei.opgaveapp:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeBackground dk.ei.opgaveapp:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle dk.ei.opgaveapp:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable dk.ei.opgaveapp:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable dk.ei.opgaveapp:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable dk.ei.opgaveapp:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable dk.ei.opgaveapp:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable dk.ei.opgaveapp:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle dk.ei.opgaveapp:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable dk.ei.opgaveapp:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable dk.ei.opgaveapp:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground dk.ei.opgaveapp:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeStyle dk.ei.opgaveapp:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable dk.ei.opgaveapp:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle dk.ei.opgaveapp:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle dk.ei.opgaveapp:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle dk.ei.opgaveapp:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle dk.ei.opgaveapp:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons dk.ei.opgaveapp:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle dk.ei.opgaveapp:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme dk.ei.opgaveapp:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarDivider dk.ei.tid:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground dk.ei.tid:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme dk.ei.tid:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSize dk.ei.tid:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle dk.ei.tid:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarStyle dk.ei.tid:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle dk.ei.tid:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle dk.ei.tid:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle dk.ei.tid:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTheme dk.ei.tid:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme dk.ei.tid:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle dk.ei.tid:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle dk.ei.tid:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance dk.ei.tid:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor dk.ei.tid:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeBackground dk.ei.tid:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle dk.ei.tid:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable dk.ei.tid:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable dk.ei.tid:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable dk.ei.tid:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable dk.ei.tid:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable dk.ei.tid:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle dk.ei.tid:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable dk.ei.tid:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable dk.ei.tid:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground dk.ei.tid:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeStyle dk.ei.tid:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable dk.ei.tid:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle dk.ei.tid:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle dk.ei.tid:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle dk.ei.tid:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle dk.ei.tid:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons dk.ei.tid:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle dk.ei.tid:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme dk.ei.tid:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle dk.ei.opgaveapp:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle dk.ei.opgaveapp:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle dk.ei.opgaveapp:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle dk.ei.opgaveapp:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle dk.ei.opgaveapp:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle dk.ei.opgaveapp:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle dk.ei.opgaveapp:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyle dk.ei.opgaveapp:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall dk.ei.opgaveapp:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkboxStyle dk.ei.opgaveapp:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle dk.ei.opgaveapp:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorAccent dk.ei.opgaveapp:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating dk.ei.opgaveapp:colorBackgroundFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal dk.ei.opgaveapp:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlActivated dk.ei.opgaveapp:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight dk.ei.opgaveapp:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlNormal dk.ei.opgaveapp:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimary dk.ei.opgaveapp:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark dk.ei.opgaveapp:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal dk.ei.opgaveapp:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_controlBackground dk.ei.opgaveapp:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding dk.ei.opgaveapp:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogTheme dk.ei.opgaveapp:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal dk.ei.opgaveapp:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerVertical dk.ei.opgaveapp:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle dk.ei.opgaveapp:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight dk.ei.opgaveapp:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextBackground dk.ei.opgaveapp:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextColor dk.ei.opgaveapp:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextStyle dk.ei.opgaveapp:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator dk.ei.opgaveapp:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle dk.ei.opgaveapp:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator dk.ei.opgaveapp:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog dk.ei.opgaveapp:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle dk.ei.opgaveapp:listMenuViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle dk.ei.opgaveapp:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight dk.ei.opgaveapp:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge dk.ei.opgaveapp:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall dk.ei.opgaveapp:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft dk.ei.opgaveapp:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight dk.ei.opgaveapp:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelBackground dk.ei.opgaveapp:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme dk.ei.opgaveapp:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth dk.ei.opgaveapp:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle dk.ei.opgaveapp:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle dk.ei.opgaveapp:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle dk.ei.opgaveapp:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle dk.ei.opgaveapp:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator dk.ei.opgaveapp:ratingBarStyleIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall dk.ei.opgaveapp:ratingBarStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_searchViewStyle dk.ei.opgaveapp:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_seekBarStyle dk.ei.opgaveapp:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground dk.ei.opgaveapp:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless dk.ei.opgaveapp:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle dk.ei.opgaveapp:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerStyle dk.ei.opgaveapp:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_switchStyle dk.ei.opgaveapp:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu dk.ei.opgaveapp:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem dk.ei.opgaveapp:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary dk.ei.opgaveapp:textAppearanceListItemSecondary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall dk.ei.opgaveapp:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader dk.ei.opgaveapp:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle dk.ei.opgaveapp:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle dk.ei.opgaveapp:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu dk.ei.opgaveapp:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem dk.ei.opgaveapp:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl dk.ei.opgaveapp:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle dk.ei.opgaveapp:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarStyle dk.ei.opgaveapp:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBar dk.ei.opgaveapp:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay dk.ei.opgaveapp:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay dk.ei.opgaveapp:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor dk.ei.opgaveapp:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor dk.ei.opgaveapp:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor dk.ei.opgaveapp:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor dk.ei.opgaveapp:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor dk.ei.opgaveapp:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor dk.ei.opgaveapp:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowNoTitle dk.ei.opgaveapp:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle dk.ei.tid:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle dk.ei.tid:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle dk.ei.tid:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle dk.ei.tid:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle dk.ei.tid:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle dk.ei.tid:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle dk.ei.tid:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyle dk.ei.tid:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall dk.ei.tid:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkboxStyle dk.ei.tid:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle dk.ei.tid:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorAccent dk.ei.tid:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating dk.ei.tid:colorBackgroundFloating}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal dk.ei.tid:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlActivated dk.ei.tid:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight dk.ei.tid:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlNormal dk.ei.tid:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimary dk.ei.tid:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark dk.ei.tid:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal dk.ei.tid:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_controlBackground dk.ei.tid:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding dk.ei.tid:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogTheme dk.ei.tid:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal dk.ei.tid:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerVertical dk.ei.tid:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle dk.ei.tid:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight dk.ei.tid:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextBackground dk.ei.tid:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextColor dk.ei.tid:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextStyle dk.ei.tid:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator dk.ei.tid:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle dk.ei.tid:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator dk.ei.tid:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog dk.ei.tid:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle dk.ei.tid:listMenuViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle dk.ei.tid:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight dk.ei.tid:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge dk.ei.tid:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall dk.ei.tid:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft dk.ei.tid:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight dk.ei.tid:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelBackground dk.ei.tid:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme dk.ei.tid:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth dk.ei.tid:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle dk.ei.tid:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle dk.ei.tid:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle dk.ei.tid:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle dk.ei.tid:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator dk.ei.tid:ratingBarStyleIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall dk.ei.tid:ratingBarStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_searchViewStyle dk.ei.tid:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_seekBarStyle dk.ei.tid:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground dk.ei.tid:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless dk.ei.tid:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle dk.ei.tid:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerStyle dk.ei.tid:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_switchStyle dk.ei.tid:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu dk.ei.tid:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem dk.ei.tid:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary dk.ei.tid:textAppearanceListItemSecondary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall dk.ei.tid:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader dk.ei.tid:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle dk.ei.tid:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle dk.ei.tid:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu dk.ei.tid:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem dk.ei.tid:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl dk.ei.tid:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle dk.ei.tid:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarStyle dk.ei.tid:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBar dk.ei.tid:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay dk.ei.tid:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay dk.ei.tid:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor dk.ei.tid:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor dk.ei.tid:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor dk.ei.tid:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor dk.ei.tid:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor dk.ei.tid:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor dk.ei.tid:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowNoTitle dk.ei.tid:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #AppCompatTheme_actionBarDivider
            @see #AppCompatTheme_actionBarItemBackground
@@ -5143,37 +5144,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100b8, 0x7f0100b9, 0x7f0100ba, 0x7f0100bb
         };
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:actionBarDivider
+          @attr name dk.ei.tid:actionBarDivider
         */
         public static final int AppCompatTheme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:actionBarItemBackground
+          @attr name dk.ei.tid:actionBarItemBackground
         */
         public static final int AppCompatTheme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:actionBarPopupTheme
+          @attr name dk.ei.tid:actionBarPopupTheme
         */
         public static final int AppCompatTheme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionBarSize}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5193,111 +5194,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name dk.ei.opgaveapp:actionBarSize
+          @attr name dk.ei.tid:actionBarSize
         */
         public static final int AppCompatTheme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:actionBarSplitStyle
+          @attr name dk.ei.tid:actionBarSplitStyle
         */
         public static final int AppCompatTheme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:actionBarStyle
+          @attr name dk.ei.tid:actionBarStyle
         */
         public static final int AppCompatTheme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:actionBarTabBarStyle
+          @attr name dk.ei.tid:actionBarTabBarStyle
         */
         public static final int AppCompatTheme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:actionBarTabStyle
+          @attr name dk.ei.tid:actionBarTabStyle
         */
         public static final int AppCompatTheme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:actionBarTabTextStyle
+          @attr name dk.ei.tid:actionBarTabTextStyle
         */
         public static final int AppCompatTheme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:actionBarTheme
+          @attr name dk.ei.tid:actionBarTheme
         */
         public static final int AppCompatTheme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:actionBarWidgetTheme
+          @attr name dk.ei.tid:actionBarWidgetTheme
         */
         public static final int AppCompatTheme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:actionButtonStyle
+          @attr name dk.ei.tid:actionButtonStyle
         */
         public static final int AppCompatTheme_actionButtonStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:actionDropDownStyle
+          @attr name dk.ei.tid:actionDropDownStyle
         */
         public static final int AppCompatTheme_actionDropDownStyle = 46;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:actionMenuTextAppearance
+          @attr name dk.ei.tid:actionMenuTextAppearance
         */
         public static final int AppCompatTheme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5305,181 +5306,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name dk.ei.opgaveapp:actionMenuTextColor
+          @attr name dk.ei.tid:actionMenuTextColor
         */
         public static final int AppCompatTheme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:actionModeBackground
+          @attr name dk.ei.tid:actionModeBackground
         */
         public static final int AppCompatTheme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:actionModeCloseButtonStyle
+          @attr name dk.ei.tid:actionModeCloseButtonStyle
         */
         public static final int AppCompatTheme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:actionModeCloseDrawable
+          @attr name dk.ei.tid:actionModeCloseDrawable
         */
         public static final int AppCompatTheme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:actionModeCopyDrawable
+          @attr name dk.ei.tid:actionModeCopyDrawable
         */
         public static final int AppCompatTheme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:actionModeCutDrawable
+          @attr name dk.ei.tid:actionModeCutDrawable
         */
         public static final int AppCompatTheme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:actionModeFindDrawable
+          @attr name dk.ei.tid:actionModeFindDrawable
         */
         public static final int AppCompatTheme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:actionModePasteDrawable
+          @attr name dk.ei.tid:actionModePasteDrawable
         */
         public static final int AppCompatTheme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:actionModePopupWindowStyle
+          @attr name dk.ei.tid:actionModePopupWindowStyle
         */
         public static final int AppCompatTheme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:actionModeSelectAllDrawable
+          @attr name dk.ei.tid:actionModeSelectAllDrawable
         */
         public static final int AppCompatTheme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:actionModeShareDrawable
+          @attr name dk.ei.tid:actionModeShareDrawable
         */
         public static final int AppCompatTheme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:actionModeSplitBackground
+          @attr name dk.ei.tid:actionModeSplitBackground
         */
         public static final int AppCompatTheme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:actionModeStyle
+          @attr name dk.ei.tid:actionModeStyle
         */
         public static final int AppCompatTheme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:actionModeWebSearchDrawable
+          @attr name dk.ei.tid:actionModeWebSearchDrawable
         */
         public static final int AppCompatTheme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:actionOverflowButtonStyle
+          @attr name dk.ei.tid:actionOverflowButtonStyle
         */
         public static final int AppCompatTheme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:actionOverflowMenuStyle
+          @attr name dk.ei.tid:actionOverflowMenuStyle
         */
         public static final int AppCompatTheme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:activityChooserViewStyle
+          @attr name dk.ei.tid:activityChooserViewStyle
         */
         public static final int AppCompatTheme_activityChooserViewStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:alertDialogButtonGroupStyle
+          @attr name dk.ei.tid:alertDialogButtonGroupStyle
         */
         public static final int AppCompatTheme_alertDialogButtonGroupStyle = 95;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5489,27 +5490,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:alertDialogCenterButtons
+          @attr name dk.ei.tid:alertDialogCenterButtons
         */
         public static final int AppCompatTheme_alertDialogCenterButtons = 96;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:alertDialogStyle
+          @attr name dk.ei.tid:alertDialogStyle
         */
         public static final int AppCompatTheme_alertDialogStyle = 94;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:alertDialogTheme
+          @attr name dk.ei.tid:alertDialogTheme
         */
         public static final int AppCompatTheme_alertDialogTheme = 97;
         /**
@@ -5525,117 +5526,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTheme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:autoCompleteTextViewStyle
+          @attr name dk.ei.tid:autoCompleteTextViewStyle
         */
         public static final int AppCompatTheme_autoCompleteTextViewStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:borderlessButtonStyle
+          @attr name dk.ei.tid:borderlessButtonStyle
         */
         public static final int AppCompatTheme_borderlessButtonStyle = 55;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:buttonBarButtonStyle
+          @attr name dk.ei.tid:buttonBarButtonStyle
         */
         public static final int AppCompatTheme_buttonBarButtonStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:buttonBarNegativeButtonStyle
+          @attr name dk.ei.tid:buttonBarNegativeButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNegativeButtonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:buttonBarNeutralButtonStyle
+          @attr name dk.ei.tid:buttonBarNeutralButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNeutralButtonStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:buttonBarPositiveButtonStyle
+          @attr name dk.ei.tid:buttonBarPositiveButtonStyle
         */
         public static final int AppCompatTheme_buttonBarPositiveButtonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:buttonBarStyle
+          @attr name dk.ei.tid:buttonBarStyle
         */
         public static final int AppCompatTheme_buttonBarStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#buttonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:buttonStyle
+          @attr name dk.ei.tid:buttonStyle
         */
         public static final int AppCompatTheme_buttonStyle = 103;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:buttonStyleSmall
+          @attr name dk.ei.tid:buttonStyleSmall
         */
         public static final int AppCompatTheme_buttonStyleSmall = 104;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:checkboxStyle
+          @attr name dk.ei.tid:checkboxStyle
         */
         public static final int AppCompatTheme_checkboxStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:checkedTextViewStyle
+          @attr name dk.ei.tid:checkedTextViewStyle
         */
         public static final int AppCompatTheme_checkedTextViewStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#colorAccent}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5646,11 +5647,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:colorAccent
+          @attr name dk.ei.tid:colorAccent
         */
         public static final int AppCompatTheme_colorAccent = 86;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#colorBackgroundFloating}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#colorBackgroundFloating}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5661,11 +5662,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:colorBackgroundFloating
+          @attr name dk.ei.tid:colorBackgroundFloating
         */
         public static final int AppCompatTheme_colorBackgroundFloating = 93;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5676,11 +5677,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:colorButtonNormal
+          @attr name dk.ei.tid:colorButtonNormal
         */
         public static final int AppCompatTheme_colorButtonNormal = 90;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5691,11 +5692,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:colorControlActivated
+          @attr name dk.ei.tid:colorControlActivated
         */
         public static final int AppCompatTheme_colorControlActivated = 88;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5706,11 +5707,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:colorControlHighlight
+          @attr name dk.ei.tid:colorControlHighlight
         */
         public static final int AppCompatTheme_colorControlHighlight = 89;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5721,11 +5722,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:colorControlNormal
+          @attr name dk.ei.tid:colorControlNormal
         */
         public static final int AppCompatTheme_colorControlNormal = 87;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#colorPrimary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5736,11 +5737,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:colorPrimary
+          @attr name dk.ei.tid:colorPrimary
         */
         public static final int AppCompatTheme_colorPrimary = 84;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5751,11 +5752,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:colorPrimaryDark
+          @attr name dk.ei.tid:colorPrimaryDark
         */
         public static final int AppCompatTheme_colorPrimaryDark = 85;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5766,21 +5767,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:colorSwitchThumbNormal
+          @attr name dk.ei.tid:colorSwitchThumbNormal
         */
         public static final int AppCompatTheme_colorSwitchThumbNormal = 91;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#controlBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:controlBackground
+          @attr name dk.ei.tid:controlBackground
         */
         public static final int AppCompatTheme_controlBackground = 92;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5792,51 +5793,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:dialogPreferredPadding
+          @attr name dk.ei.tid:dialogPreferredPadding
         */
         public static final int AppCompatTheme_dialogPreferredPadding = 44;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#dialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:dialogTheme
+          @attr name dk.ei.tid:dialogTheme
         */
         public static final int AppCompatTheme_dialogTheme = 43;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:dividerHorizontal
+          @attr name dk.ei.tid:dividerHorizontal
         */
         public static final int AppCompatTheme_dividerHorizontal = 57;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#dividerVertical}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:dividerVertical
+          @attr name dk.ei.tid:dividerVertical
         */
         public static final int AppCompatTheme_dividerVertical = 56;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:dropDownListViewStyle
+          @attr name dk.ei.tid:dropDownListViewStyle
         */
         public static final int AppCompatTheme_dropDownListViewStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5848,21 +5849,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:dropdownListPreferredItemHeight
+          @attr name dk.ei.tid:dropdownListPreferredItemHeight
         */
         public static final int AppCompatTheme_dropdownListPreferredItemHeight = 47;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#editTextBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:editTextBackground
+          @attr name dk.ei.tid:editTextBackground
         */
         public static final int AppCompatTheme_editTextBackground = 64;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#editTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5870,81 +5871,81 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name dk.ei.opgaveapp:editTextColor
+          @attr name dk.ei.tid:editTextColor
         */
         public static final int AppCompatTheme_editTextColor = 63;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#editTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:editTextStyle
+          @attr name dk.ei.tid:editTextStyle
         */
         public static final int AppCompatTheme_editTextStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:homeAsUpIndicator
+          @attr name dk.ei.tid:homeAsUpIndicator
         */
         public static final int AppCompatTheme_homeAsUpIndicator = 49;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:imageButtonStyle
+          @attr name dk.ei.tid:imageButtonStyle
         */
         public static final int AppCompatTheme_imageButtonStyle = 65;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:listChoiceBackgroundIndicator
+          @attr name dk.ei.tid:listChoiceBackgroundIndicator
         */
         public static final int AppCompatTheme_listChoiceBackgroundIndicator = 83;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:listDividerAlertDialog
+          @attr name dk.ei.tid:listDividerAlertDialog
         */
         public static final int AppCompatTheme_listDividerAlertDialog = 45;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#listMenuViewStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#listMenuViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:listMenuViewStyle
+          @attr name dk.ei.tid:listMenuViewStyle
         */
         public static final int AppCompatTheme_listMenuViewStyle = 115;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:listPopupWindowStyle
+          @attr name dk.ei.tid:listPopupWindowStyle
         */
         public static final int AppCompatTheme_listPopupWindowStyle = 76;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5956,11 +5957,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:listPreferredItemHeight
+          @attr name dk.ei.tid:listPreferredItemHeight
         */
         public static final int AppCompatTheme_listPreferredItemHeight = 70;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5972,11 +5973,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:listPreferredItemHeightLarge
+          @attr name dk.ei.tid:listPreferredItemHeightLarge
         */
         public static final int AppCompatTheme_listPreferredItemHeightLarge = 72;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5988,11 +5989,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:listPreferredItemHeightSmall
+          @attr name dk.ei.tid:listPreferredItemHeightSmall
         */
         public static final int AppCompatTheme_listPreferredItemHeightSmall = 71;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6004,11 +6005,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:listPreferredItemPaddingLeft
+          @attr name dk.ei.tid:listPreferredItemPaddingLeft
         */
         public static final int AppCompatTheme_listPreferredItemPaddingLeft = 73;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6020,31 +6021,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:listPreferredItemPaddingRight
+          @attr name dk.ei.tid:listPreferredItemPaddingRight
         */
         public static final int AppCompatTheme_listPreferredItemPaddingRight = 74;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#panelBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:panelBackground
+          @attr name dk.ei.tid:panelBackground
         */
         public static final int AppCompatTheme_panelBackground = 80;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:panelMenuListTheme
+          @attr name dk.ei.tid:panelMenuListTheme
         */
         public static final int AppCompatTheme_panelMenuListTheme = 82;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6056,221 +6057,221 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:panelMenuListWidth
+          @attr name dk.ei.tid:panelMenuListWidth
         */
         public static final int AppCompatTheme_panelMenuListWidth = 81;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:popupMenuStyle
+          @attr name dk.ei.tid:popupMenuStyle
         */
         public static final int AppCompatTheme_popupMenuStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:popupWindowStyle
+          @attr name dk.ei.tid:popupWindowStyle
         */
         public static final int AppCompatTheme_popupWindowStyle = 62;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:radioButtonStyle
+          @attr name dk.ei.tid:radioButtonStyle
         */
         public static final int AppCompatTheme_radioButtonStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:ratingBarStyle
+          @attr name dk.ei.tid:ratingBarStyle
         */
         public static final int AppCompatTheme_ratingBarStyle = 109;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#ratingBarStyleIndicator}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#ratingBarStyleIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:ratingBarStyleIndicator
+          @attr name dk.ei.tid:ratingBarStyleIndicator
         */
         public static final int AppCompatTheme_ratingBarStyleIndicator = 110;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#ratingBarStyleSmall}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#ratingBarStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:ratingBarStyleSmall
+          @attr name dk.ei.tid:ratingBarStyleSmall
         */
         public static final int AppCompatTheme_ratingBarStyleSmall = 111;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:searchViewStyle
+          @attr name dk.ei.tid:searchViewStyle
         */
         public static final int AppCompatTheme_searchViewStyle = 69;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:seekBarStyle
+          @attr name dk.ei.tid:seekBarStyle
         */
         public static final int AppCompatTheme_seekBarStyle = 112;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:selectableItemBackground
+          @attr name dk.ei.tid:selectableItemBackground
         */
         public static final int AppCompatTheme_selectableItemBackground = 53;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:selectableItemBackgroundBorderless
+          @attr name dk.ei.tid:selectableItemBackgroundBorderless
         */
         public static final int AppCompatTheme_selectableItemBackgroundBorderless = 54;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:spinnerDropDownItemStyle
+          @attr name dk.ei.tid:spinnerDropDownItemStyle
         */
         public static final int AppCompatTheme_spinnerDropDownItemStyle = 48;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:spinnerStyle
+          @attr name dk.ei.tid:spinnerStyle
         */
         public static final int AppCompatTheme_spinnerStyle = 113;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#switchStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:switchStyle
+          @attr name dk.ei.tid:switchStyle
         */
         public static final int AppCompatTheme_switchStyle = 114;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:textAppearanceLargePopupMenu
+          @attr name dk.ei.tid:textAppearanceLargePopupMenu
         */
         public static final int AppCompatTheme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:textAppearanceListItem
+          @attr name dk.ei.tid:textAppearanceListItem
         */
         public static final int AppCompatTheme_textAppearanceListItem = 77;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#textAppearanceListItemSecondary}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#textAppearanceListItemSecondary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:textAppearanceListItemSecondary
+          @attr name dk.ei.tid:textAppearanceListItemSecondary
         */
         public static final int AppCompatTheme_textAppearanceListItemSecondary = 78;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:textAppearanceListItemSmall
+          @attr name dk.ei.tid:textAppearanceListItemSmall
         */
         public static final int AppCompatTheme_textAppearanceListItemSmall = 79;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#textAppearancePopupMenuHeader}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#textAppearancePopupMenuHeader}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:textAppearancePopupMenuHeader
+          @attr name dk.ei.tid:textAppearancePopupMenuHeader
         */
         public static final int AppCompatTheme_textAppearancePopupMenuHeader = 42;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:textAppearanceSearchResultSubtitle
+          @attr name dk.ei.tid:textAppearanceSearchResultSubtitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultSubtitle = 67;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:textAppearanceSearchResultTitle
+          @attr name dk.ei.tid:textAppearanceSearchResultTitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultTitle = 66;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:textAppearanceSmallPopupMenu
+          @attr name dk.ei.tid:textAppearanceSmallPopupMenu
         */
         public static final int AppCompatTheme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6278,11 +6279,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name dk.ei.opgaveapp:textColorAlertDialogListItem
+          @attr name dk.ei.tid:textColorAlertDialogListItem
         */
         public static final int AppCompatTheme_textColorAlertDialogListItem = 98;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6290,31 +6291,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name dk.ei.opgaveapp:textColorSearchUrl
+          @attr name dk.ei.tid:textColorSearchUrl
         */
         public static final int AppCompatTheme_textColorSearchUrl = 68;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:toolbarNavigationButtonStyle
+          @attr name dk.ei.tid:toolbarNavigationButtonStyle
         */
         public static final int AppCompatTheme_toolbarNavigationButtonStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:toolbarStyle
+          @attr name dk.ei.tid:toolbarStyle
         */
         public static final int AppCompatTheme_toolbarStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#windowActionBar}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6324,11 +6325,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:windowActionBar
+          @attr name dk.ei.tid:windowActionBar
         */
         public static final int AppCompatTheme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6338,11 +6339,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:windowActionBarOverlay
+          @attr name dk.ei.tid:windowActionBarOverlay
         */
         public static final int AppCompatTheme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6352,11 +6353,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:windowActionModeOverlay
+          @attr name dk.ei.tid:windowActionModeOverlay
         */
         public static final int AppCompatTheme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6371,11 +6372,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:windowFixedHeightMajor
+          @attr name dk.ei.tid:windowFixedHeightMajor
         */
         public static final int AppCompatTheme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6390,11 +6391,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:windowFixedHeightMinor
+          @attr name dk.ei.tid:windowFixedHeightMinor
         */
         public static final int AppCompatTheme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6409,11 +6410,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:windowFixedWidthMajor
+          @attr name dk.ei.tid:windowFixedWidthMajor
         */
         public static final int AppCompatTheme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6428,11 +6429,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:windowFixedWidthMinor
+          @attr name dk.ei.tid:windowFixedWidthMinor
         */
         public static final int AppCompatTheme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6447,11 +6448,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:windowMinWidthMajor
+          @attr name dk.ei.tid:windowMinWidthMajor
         */
         public static final int AppCompatTheme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6466,11 +6467,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:windowMinWidthMinor
+          @attr name dk.ei.tid:windowMinWidthMinor
         */
         public static final int AppCompatTheme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6480,7 +6481,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:windowNoTitle
+          @attr name dk.ei.tid:windowNoTitle
         */
         public static final int AppCompatTheme_windowNoTitle = 3;
         /** Attributes that can be used with a BottomNavigationView.
@@ -6489,11 +6490,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomNavigationView_elevation dk.ei.opgaveapp:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemBackground dk.ei.opgaveapp:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemIconTint dk.ei.opgaveapp:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemTextColor dk.ei.opgaveapp:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_menu dk.ei.opgaveapp:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_elevation dk.ei.tid:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemBackground dk.ei.tid:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemIconTint dk.ei.tid:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemTextColor dk.ei.tid:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_menu dk.ei.tid:menu}</code></td><td></td></tr>
            </table>
            @see #BottomNavigationView_elevation
            @see #BottomNavigationView_itemBackground
@@ -6506,7 +6507,7 @@ containing a value of this type.
             0x7f010131
         };
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#elevation}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#elevation}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6518,21 +6519,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:elevation
+          @attr name dk.ei.tid:elevation
         */
         public static final int BottomNavigationView_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#itemBackground}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:itemBackground
+          @attr name dk.ei.tid:itemBackground
         */
         public static final int BottomNavigationView_itemBackground = 4;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#itemIconTint}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6543,11 +6544,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:itemIconTint
+          @attr name dk.ei.tid:itemIconTint
         */
         public static final int BottomNavigationView_itemIconTint = 2;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#itemTextColor}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6558,17 +6559,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:itemTextColor
+          @attr name dk.ei.tid:itemTextColor
         */
         public static final int BottomNavigationView_itemTextColor = 3;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#menu}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#menu}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:menu
+          @attr name dk.ei.tid:menu
         */
         public static final int BottomNavigationView_menu = 1;
         /** Attributes that can be used with a BottomSheetBehavior_Layout.
@@ -6577,9 +6578,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable dk.ei.opgaveapp:behavior_hideable}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight dk.ei.opgaveapp:behavior_peekHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed dk.ei.opgaveapp:behavior_skipCollapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable dk.ei.tid:behavior_hideable}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight dk.ei.tid:behavior_peekHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed dk.ei.tid:behavior_skipCollapsed}</code></td><td></td></tr>
            </table>
            @see #BottomSheetBehavior_Layout_behavior_hideable
            @see #BottomSheetBehavior_Layout_behavior_peekHeight
@@ -6589,7 +6590,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010108, 0x7f010109, 0x7f01010a
         };
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#behavior_hideable}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#behavior_hideable}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6599,11 +6600,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:behavior_hideable
+          @attr name dk.ei.tid:behavior_hideable
         */
         public static final int BottomSheetBehavior_Layout_behavior_hideable = 1;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#behavior_peekHeight}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#behavior_peekHeight}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6623,11 +6624,11 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>auto</code></td><td>-1</td><td></td></tr>
 </table>
-          @attr name dk.ei.opgaveapp:behavior_peekHeight
+          @attr name dk.ei.tid:behavior_peekHeight
         */
         public static final int BottomSheetBehavior_Layout_behavior_peekHeight = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#behavior_skipCollapsed}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#behavior_skipCollapsed}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6637,7 +6638,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:behavior_skipCollapsed
+          @attr name dk.ei.tid:behavior_skipCollapsed
         */
         public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed = 2;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -6646,7 +6647,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking dk.ei.opgaveapp:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking dk.ei.tid:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -6654,7 +6655,7 @@ containing a value of this type.
             0x7f0100bc
         };
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -6664,7 +6665,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:allowStacking
+          @attr name dk.ei.tid:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CardView.
@@ -6675,17 +6676,17 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
            <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardBackgroundColor dk.ei.opgaveapp:cardBackgroundColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardCornerRadius dk.ei.opgaveapp:cardCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardElevation dk.ei.opgaveapp:cardElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardMaxElevation dk.ei.opgaveapp:cardMaxElevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardPreventCornerOverlap dk.ei.opgaveapp:cardPreventCornerOverlap}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_cardUseCompatPadding dk.ei.opgaveapp:cardUseCompatPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPadding dk.ei.opgaveapp:contentPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingBottom dk.ei.opgaveapp:contentPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingLeft dk.ei.opgaveapp:contentPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingRight dk.ei.opgaveapp:contentPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #CardView_contentPaddingTop dk.ei.opgaveapp:contentPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardBackgroundColor dk.ei.tid:cardBackgroundColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardCornerRadius dk.ei.tid:cardCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardElevation dk.ei.tid:cardElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardMaxElevation dk.ei.tid:cardMaxElevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardPreventCornerOverlap dk.ei.tid:cardPreventCornerOverlap}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_cardUseCompatPadding dk.ei.tid:cardUseCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPadding dk.ei.tid:contentPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingBottom dk.ei.tid:contentPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingLeft dk.ei.tid:contentPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingRight dk.ei.tid:contentPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #CardView_contentPaddingTop dk.ei.tid:contentPaddingTop}</code></td><td></td></tr>
            </table>
            @see #CardView_android_minHeight
            @see #CardView_android_minWidth
@@ -6720,7 +6721,7 @@ containing a value of this type.
         */
         public static final int CardView_android_minWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#cardBackgroundColor}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#cardBackgroundColor}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6731,11 +6732,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:cardBackgroundColor
+          @attr name dk.ei.tid:cardBackgroundColor
         */
         public static final int CardView_cardBackgroundColor = 2;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#cardCornerRadius}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#cardCornerRadius}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6747,11 +6748,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:cardCornerRadius
+          @attr name dk.ei.tid:cardCornerRadius
         */
         public static final int CardView_cardCornerRadius = 3;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#cardElevation}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#cardElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6763,11 +6764,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:cardElevation
+          @attr name dk.ei.tid:cardElevation
         */
         public static final int CardView_cardElevation = 4;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#cardMaxElevation}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#cardMaxElevation}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6779,11 +6780,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:cardMaxElevation
+          @attr name dk.ei.tid:cardMaxElevation
         */
         public static final int CardView_cardMaxElevation = 5;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#cardPreventCornerOverlap}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#cardPreventCornerOverlap}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6793,11 +6794,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:cardPreventCornerOverlap
+          @attr name dk.ei.tid:cardPreventCornerOverlap
         */
         public static final int CardView_cardPreventCornerOverlap = 7;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#cardUseCompatPadding}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#cardUseCompatPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6807,11 +6808,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:cardUseCompatPadding
+          @attr name dk.ei.tid:cardUseCompatPadding
         */
         public static final int CardView_cardUseCompatPadding = 6;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#contentPadding}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#contentPadding}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6823,11 +6824,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:contentPadding
+          @attr name dk.ei.tid:contentPadding
         */
         public static final int CardView_contentPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#contentPaddingBottom}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#contentPaddingBottom}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6839,11 +6840,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:contentPaddingBottom
+          @attr name dk.ei.tid:contentPaddingBottom
         */
         public static final int CardView_contentPaddingBottom = 12;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#contentPaddingLeft}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#contentPaddingLeft}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6855,11 +6856,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:contentPaddingLeft
+          @attr name dk.ei.tid:contentPaddingLeft
         */
         public static final int CardView_contentPaddingLeft = 9;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#contentPaddingRight}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#contentPaddingRight}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6871,11 +6872,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:contentPaddingRight
+          @attr name dk.ei.tid:contentPaddingRight
         */
         public static final int CardView_contentPaddingRight = 10;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#contentPaddingTop}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#contentPaddingTop}
           attribute's value can be found in the {@link #CardView} array.
 
 
@@ -6887,7 +6888,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:contentPaddingTop
+          @attr name dk.ei.tid:contentPaddingTop
         */
         public static final int CardView_contentPaddingTop = 11;
         /** Attributes that can be used with a CollapsingToolbarLayout.
@@ -6896,22 +6897,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity dk.ei.opgaveapp:collapsedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance dk.ei.opgaveapp:collapsedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim dk.ei.opgaveapp:contentScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity dk.ei.opgaveapp:expandedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin dk.ei.opgaveapp:expandedTitleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom dk.ei.opgaveapp:expandedTitleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd dk.ei.opgaveapp:expandedTitleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart dk.ei.opgaveapp:expandedTitleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop dk.ei.opgaveapp:expandedTitleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance dk.ei.opgaveapp:expandedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration dk.ei.opgaveapp:scrimAnimationDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger dk.ei.opgaveapp:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim dk.ei.opgaveapp:statusBarScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_title dk.ei.opgaveapp:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled dk.ei.opgaveapp:titleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId dk.ei.opgaveapp:toolbarId}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity dk.ei.tid:collapsedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance dk.ei.tid:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim dk.ei.tid:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity dk.ei.tid:expandedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin dk.ei.tid:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom dk.ei.tid:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd dk.ei.tid:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart dk.ei.tid:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop dk.ei.tid:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance dk.ei.tid:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration dk.ei.tid:scrimAnimationDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger dk.ei.tid:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim dk.ei.tid:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_title dk.ei.tid:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled dk.ei.tid:titleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId dk.ei.tid:toolbarId}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_collapsedTitleGravity
            @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -6937,7 +6938,7 @@ containing a value of this type.
             0x7f010116, 0x7f010117, 0x7f010118, 0x7f010119
         };
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#collapsedTitleGravity}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#collapsedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6958,21 +6959,21 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name dk.ei.opgaveapp:collapsedTitleGravity
+          @attr name dk.ei.tid:collapsedTitleGravity
         */
         public static final int CollapsingToolbarLayout_collapsedTitleGravity = 13;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#collapsedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#collapsedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:collapsedTitleTextAppearance
+          @attr name dk.ei.tid:collapsedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#contentScrim}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#contentScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6983,11 +6984,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:contentScrim
+          @attr name dk.ei.tid:contentScrim
         */
         public static final int CollapsingToolbarLayout_contentScrim = 8;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#expandedTitleGravity}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#expandedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7008,11 +7009,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name dk.ei.opgaveapp:expandedTitleGravity
+          @attr name dk.ei.tid:expandedTitleGravity
         */
         public static final int CollapsingToolbarLayout_expandedTitleGravity = 14;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#expandedTitleMargin}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#expandedTitleMargin}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7024,11 +7025,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:expandedTitleMargin
+          @attr name dk.ei.tid:expandedTitleMargin
         */
         public static final int CollapsingToolbarLayout_expandedTitleMargin = 1;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#expandedTitleMarginBottom}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#expandedTitleMarginBottom}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7040,11 +7041,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:expandedTitleMarginBottom
+          @attr name dk.ei.tid:expandedTitleMarginBottom
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginBottom = 5;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#expandedTitleMarginEnd}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#expandedTitleMarginEnd}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7056,11 +7057,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:expandedTitleMarginEnd
+          @attr name dk.ei.tid:expandedTitleMarginEnd
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginEnd = 4;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#expandedTitleMarginStart}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#expandedTitleMarginStart}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7072,11 +7073,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:expandedTitleMarginStart
+          @attr name dk.ei.tid:expandedTitleMarginStart
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginStart = 2;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#expandedTitleMarginTop}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#expandedTitleMarginTop}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7088,21 +7089,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:expandedTitleMarginTop
+          @attr name dk.ei.tid:expandedTitleMarginTop
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginTop = 3;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#expandedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#expandedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:expandedTitleTextAppearance
+          @attr name dk.ei.tid:expandedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_expandedTitleTextAppearance = 6;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#scrimAnimationDuration}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#scrimAnimationDuration}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7112,11 +7113,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:scrimAnimationDuration
+          @attr name dk.ei.tid:scrimAnimationDuration
         */
         public static final int CollapsingToolbarLayout_scrimAnimationDuration = 12;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#scrimVisibleHeightTrigger}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#scrimVisibleHeightTrigger}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7128,11 +7129,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:scrimVisibleHeightTrigger
+          @attr name dk.ei.tid:scrimVisibleHeightTrigger
         */
         public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger = 11;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#statusBarScrim}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#statusBarScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7143,11 +7144,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:statusBarScrim
+          @attr name dk.ei.tid:statusBarScrim
         */
         public static final int CollapsingToolbarLayout_statusBarScrim = 9;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#title}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#title}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7157,11 +7158,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:title
+          @attr name dk.ei.tid:title
         */
         public static final int CollapsingToolbarLayout_title = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#titleEnabled}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#titleEnabled}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -7171,17 +7172,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:titleEnabled
+          @attr name dk.ei.tid:titleEnabled
         */
         public static final int CollapsingToolbarLayout_titleEnabled = 15;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#toolbarId}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#toolbarId}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:toolbarId
+          @attr name dk.ei.tid:toolbarId
         */
         public static final int CollapsingToolbarLayout_toolbarId = 10;
         /** Attributes that can be used with a CollapsingToolbarLayout_Layout.
@@ -7190,8 +7191,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode dk.ei.opgaveapp:layout_collapseMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier dk.ei.opgaveapp:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode dk.ei.tid:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier dk.ei.tid:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_Layout_layout_collapseMode
            @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -7200,7 +7201,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01011a, 0x7f01011b
         };
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#layout_collapseMode}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#layout_collapseMode}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -7214,11 +7215,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>pin</code></td><td>1</td><td></td></tr>
 <tr><td><code>parallax</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name dk.ei.opgaveapp:layout_collapseMode
+          @attr name dk.ei.tid:layout_collapseMode
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseMode = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#layout_collapseParallaxMultiplier}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#layout_collapseParallaxMultiplier}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -7228,7 +7229,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:layout_collapseParallaxMultiplier
+          @attr name dk.ei.tid:layout_collapseParallaxMultiplier
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = 1;
         /** Attributes that can be used with a ColorStateListItem.
@@ -7237,7 +7238,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ColorStateListItem_alpha dk.ei.opgaveapp:alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #ColorStateListItem_alpha dk.ei.tid:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
            </table>
@@ -7249,7 +7250,7 @@ containing a value of this type.
             0x010101a5, 0x0101031f, 0x7f0100bd
         };
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#alpha}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#alpha}
           attribute's value can be found in the {@link #ColorStateListItem} array.
 
 
@@ -7259,7 +7260,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:alpha
+          @attr name dk.ei.tid:alpha
         */
         public static final int ColorStateListItem_alpha = 2;
         /**
@@ -7281,8 +7282,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint dk.ei.opgaveapp:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode dk.ei.opgaveapp:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint dk.ei.tid:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode dk.ei.tid:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -7298,7 +7299,7 @@ containing a value of this type.
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -7309,11 +7310,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:buttonTint
+          @attr name dk.ei.tid:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -7329,7 +7330,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name dk.ei.opgaveapp:buttonTintMode
+          @attr name dk.ei.tid:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a CoordinatorLayout.
@@ -7338,8 +7339,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CoordinatorLayout_keylines dk.ei.opgaveapp:keylines}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground dk.ei.opgaveapp:statusBarBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_keylines dk.ei.tid:keylines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground dk.ei.tid:statusBarBackground}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_keylines
            @see #CoordinatorLayout_statusBarBackground
@@ -7348,23 +7349,23 @@ containing a value of this type.
             0x7f01011c, 0x7f01011d
         };
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#keylines}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#keylines}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:keylines
+          @attr name dk.ei.tid:keylines
         */
         public static final int CoordinatorLayout_keylines = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#statusBarBackground}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#statusBarBackground}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:statusBarBackground
+          @attr name dk.ei.tid:statusBarBackground
         */
         public static final int CoordinatorLayout_statusBarBackground = 1;
         /** Attributes that can be used with a CoordinatorLayout_Layout.
@@ -7374,12 +7375,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor dk.ei.opgaveapp:layout_anchor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity dk.ei.opgaveapp:layout_anchorGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior dk.ei.opgaveapp:layout_behavior}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges dk.ei.opgaveapp:layout_dodgeInsetEdges}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge dk.ei.opgaveapp:layout_insetEdge}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline dk.ei.opgaveapp:layout_keyline}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor dk.ei.tid:layout_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity dk.ei.tid:layout_anchorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior dk.ei.tid:layout_behavior}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges dk.ei.tid:layout_dodgeInsetEdges}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge dk.ei.tid:layout_insetEdge}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline dk.ei.tid:layout_keyline}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_Layout_android_layout_gravity
            @see #CoordinatorLayout_Layout_layout_anchor
@@ -7400,17 +7401,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CoordinatorLayout_Layout_android_layout_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#layout_anchor}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#layout_anchor}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:layout_anchor
+          @attr name dk.ei.tid:layout_anchor
         */
         public static final int CoordinatorLayout_Layout_layout_anchor = 2;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#layout_anchorGravity}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#layout_anchorGravity}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7435,11 +7436,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name dk.ei.opgaveapp:layout_anchorGravity
+          @attr name dk.ei.tid:layout_anchorGravity
         */
         public static final int CoordinatorLayout_Layout_layout_anchorGravity = 4;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#layout_behavior}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#layout_behavior}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7449,11 +7450,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:layout_behavior
+          @attr name dk.ei.tid:layout_behavior
         */
         public static final int CoordinatorLayout_Layout_layout_behavior = 1;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#layout_dodgeInsetEdges}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#layout_dodgeInsetEdges}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7472,11 +7473,11 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 <tr><td><code>all</code></td><td>0x77</td><td></td></tr>
 </table>
-          @attr name dk.ei.opgaveapp:layout_dodgeInsetEdges
+          @attr name dk.ei.tid:layout_dodgeInsetEdges
         */
         public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges = 6;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#layout_insetEdge}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#layout_insetEdge}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7494,11 +7495,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name dk.ei.opgaveapp:layout_insetEdge
+          @attr name dk.ei.tid:layout_insetEdge
         */
         public static final int CoordinatorLayout_Layout_layout_insetEdge = 5;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#layout_keyline}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#layout_keyline}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -7508,7 +7509,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:layout_keyline
+          @attr name dk.ei.tid:layout_keyline
         */
         public static final int CoordinatorLayout_Layout_layout_keyline = 3;
         /** Attributes that can be used with a DesignTheme.
@@ -7517,9 +7518,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme dk.ei.opgaveapp:bottomSheetDialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetStyle dk.ei.opgaveapp:bottomSheetStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_textColorError dk.ei.opgaveapp:textColorError}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme dk.ei.tid:bottomSheetDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetStyle dk.ei.tid:bottomSheetStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_textColorError dk.ei.tid:textColorError}</code></td><td></td></tr>
            </table>
            @see #DesignTheme_bottomSheetDialogTheme
            @see #DesignTheme_bottomSheetStyle
@@ -7529,27 +7530,27 @@ containing a value of this type.
             0x7f010124, 0x7f010125, 0x7f010126
         };
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#bottomSheetDialogTheme}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#bottomSheetDialogTheme}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:bottomSheetDialogTheme
+          @attr name dk.ei.tid:bottomSheetDialogTheme
         */
         public static final int DesignTheme_bottomSheetDialogTheme = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#bottomSheetStyle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#bottomSheetStyle}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:bottomSheetStyle
+          @attr name dk.ei.tid:bottomSheetStyle
         */
         public static final int DesignTheme_bottomSheetStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#textColorError}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#textColorError}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
@@ -7560,7 +7561,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:textColorError
+          @attr name dk.ei.tid:textColorError
         */
         public static final int DesignTheme_textColorError = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -7569,14 +7570,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength dk.ei.opgaveapp:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength dk.ei.opgaveapp:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength dk.ei.opgaveapp:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color dk.ei.opgaveapp:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize dk.ei.opgaveapp:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars dk.ei.opgaveapp:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars dk.ei.opgaveapp:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness dk.ei.opgaveapp:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength dk.ei.tid:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength dk.ei.tid:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength dk.ei.tid:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color dk.ei.tid:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize dk.ei.tid:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars dk.ei.tid:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars dk.ei.tid:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness dk.ei.tid:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -7592,7 +7593,7 @@ containing a value of this type.
             0x7f0100c4, 0x7f0100c5, 0x7f0100c6, 0x7f0100c7
         };
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7604,11 +7605,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:arrowHeadLength
+          @attr name dk.ei.tid:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7620,11 +7621,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:arrowShaftLength
+          @attr name dk.ei.tid:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#barLength}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7636,11 +7637,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:barLength
+          @attr name dk.ei.tid:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#color}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7651,11 +7652,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:color
+          @attr name dk.ei.tid:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7667,11 +7668,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:drawableSize
+          @attr name dk.ei.tid:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7683,11 +7684,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:gapBetweenBars
+          @attr name dk.ei.tid:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7697,11 +7698,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:spinBars
+          @attr name dk.ei.tid:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#thickness}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7713,7 +7714,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:thickness
+          @attr name dk.ei.tid:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a FloatingActionButton.
@@ -7722,14 +7723,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTint dk.ei.opgaveapp:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode dk.ei.opgaveapp:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_borderWidth dk.ei.opgaveapp:borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_elevation dk.ei.opgaveapp:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabSize dk.ei.opgaveapp:fabSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ dk.ei.opgaveapp:pressedTranslationZ}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_rippleColor dk.ei.opgaveapp:rippleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_useCompatPadding dk.ei.opgaveapp:useCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint dk.ei.tid:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode dk.ei.tid:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth dk.ei.tid:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation dk.ei.tid:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize dk.ei.tid:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ dk.ei.tid:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor dk.ei.tid:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_useCompatPadding dk.ei.tid:useCompatPadding}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_backgroundTint
            @see #FloatingActionButton_backgroundTintMode
@@ -7745,7 +7746,7 @@ containing a value of this type.
             0x7f010128, 0x7f010129, 0x7f01012a, 0x7f01012b
         };
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#backgroundTint}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7756,11 +7757,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:backgroundTint
+          @attr name dk.ei.tid:backgroundTint
         */
         public static final int FloatingActionButton_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7776,11 +7777,11 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name dk.ei.opgaveapp:backgroundTintMode
+          @attr name dk.ei.tid:backgroundTintMode
         */
         public static final int FloatingActionButton_backgroundTintMode = 2;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#borderWidth}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#borderWidth}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7792,11 +7793,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:borderWidth
+          @attr name dk.ei.tid:borderWidth
         */
         public static final int FloatingActionButton_borderWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#elevation}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#elevation}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7808,11 +7809,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:elevation
+          @attr name dk.ei.tid:elevation
         */
         public static final int FloatingActionButton_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#fabSize}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#fabSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7826,11 +7827,11 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name dk.ei.opgaveapp:fabSize
+          @attr name dk.ei.tid:fabSize
         */
         public static final int FloatingActionButton_fabSize = 4;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#pressedTranslationZ}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#pressedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7842,11 +7843,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:pressedTranslationZ
+          @attr name dk.ei.tid:pressedTranslationZ
         */
         public static final int FloatingActionButton_pressedTranslationZ = 5;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#rippleColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7857,11 +7858,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:rippleColor
+          @attr name dk.ei.tid:rippleColor
         */
         public static final int FloatingActionButton_rippleColor = 3;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#useCompatPadding}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#useCompatPadding}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7871,7 +7872,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:useCompatPadding
+          @attr name dk.ei.tid:useCompatPadding
         */
         public static final int FloatingActionButton_useCompatPadding = 7;
         /** Attributes that can be used with a FloatingActionButton_Behavior_Layout.
@@ -7880,7 +7881,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide dk.ei.opgaveapp:behavior_autoHide}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide dk.ei.tid:behavior_autoHide}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
          */
@@ -7888,7 +7889,7 @@ containing a value of this type.
             0x7f01012c
         };
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#behavior_autoHide}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#behavior_autoHide}
           attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
 
 
@@ -7898,7 +7899,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:behavior_autoHide
+          @attr name dk.ei.tid:behavior_autoHide
         */
         public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide = 0;
         /** Attributes that can be used with a ForegroundLinearLayout.
@@ -7909,7 +7910,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding dk.ei.opgaveapp:foregroundInsidePadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding dk.ei.tid:foregroundInsidePadding}</code></td><td></td></tr>
            </table>
            @see #ForegroundLinearLayout_android_foreground
            @see #ForegroundLinearLayout_android_foregroundGravity
@@ -7931,7 +7932,7 @@ containing a value of this type.
         */
         public static final int ForegroundLinearLayout_android_foregroundGravity = 1;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#foregroundInsidePadding}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#foregroundInsidePadding}
           attribute's value can be found in the {@link #ForegroundLinearLayout} array.
 
 
@@ -7941,7 +7942,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:foregroundInsidePadding
+          @attr name dk.ei.tid:foregroundInsidePadding
         */
         public static final int ForegroundLinearLayout_foregroundInsidePadding = 2;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -7955,10 +7956,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider dk.ei.opgaveapp:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding dk.ei.opgaveapp:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild dk.ei.opgaveapp:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers dk.ei.opgaveapp:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider dk.ei.tid:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding dk.ei.tid:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild dk.ei.tid:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers dk.ei.tid:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -8006,17 +8007,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#divider}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:divider
+          @attr name dk.ei.tid:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -8028,11 +8029,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:dividerPadding
+          @attr name dk.ei.tid:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -8042,11 +8043,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:measureWithLargestChild
+          @attr name dk.ei.tid:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -8061,7 +8062,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name dk.ei.opgaveapp:showDividers
+          @attr name dk.ei.tid:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -8142,8 +8143,8 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #MediaRouteButton_android_minHeight android:minHeight}</code></td><td></td></tr>
            <tr><td><code>{@link #MediaRouteButton_android_minWidth android:minWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #MediaRouteButton_buttonTint dk.ei.opgaveapp:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #MediaRouteButton_externalRouteEnabledDrawable dk.ei.opgaveapp:externalRouteEnabledDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #MediaRouteButton_buttonTint dk.ei.tid:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #MediaRouteButton_externalRouteEnabledDrawable dk.ei.tid:externalRouteEnabledDrawable}</code></td><td></td></tr>
            </table>
            @see #MediaRouteButton_android_minHeight
            @see #MediaRouteButton_android_minWidth
@@ -8166,7 +8167,7 @@ containing a value of this type.
         */
         public static final int MediaRouteButton_android_minWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#buttonTint}
           attribute's value can be found in the {@link #MediaRouteButton} array.
 
 
@@ -8177,17 +8178,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:buttonTint
+          @attr name dk.ei.tid:buttonTint
         */
         public static final int MediaRouteButton_buttonTint = 3;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#externalRouteEnabledDrawable}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#externalRouteEnabledDrawable}
           attribute's value can be found in the {@link #MediaRouteButton} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:externalRouteEnabledDrawable
+          @attr name dk.ei.tid:externalRouteEnabledDrawable
         */
         public static final int MediaRouteButton_externalRouteEnabledDrawable = 2;
         /** Attributes that can be used with a MenuGroup.
@@ -8256,9 +8257,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout dk.ei.opgaveapp:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass dk.ei.opgaveapp:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass dk.ei.opgaveapp:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout dk.ei.tid:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass dk.ei.tid:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass dk.ei.tid:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -8272,7 +8273,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction dk.ei.opgaveapp:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction dk.ei.tid:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -8300,17 +8301,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100ce
         };
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:actionLayout
+          @attr name dk.ei.tid:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8320,11 +8321,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:actionProviderClass
+          @attr name dk.ei.tid:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8334,7 +8335,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:actionViewClass
+          @attr name dk.ei.tid:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -8416,7 +8417,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -8432,7 +8433,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name dk.ei.opgaveapp:showAsAction
+          @attr name dk.ei.tid:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -8448,8 +8449,8 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing dk.ei.opgaveapp:preserveIconSpacing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_subMenuArrow dk.ei.opgaveapp:subMenuArrow}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing dk.ei.tid:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_subMenuArrow dk.ei.tid:subMenuArrow}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -8509,7 +8510,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -8519,17 +8520,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:preserveIconSpacing
+          @attr name dk.ei.tid:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#subMenuArrow}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#subMenuArrow}
           attribute's value can be found in the {@link #MenuView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:subMenuArrow
+          @attr name dk.ei.tid:subMenuArrow
         */
         public static final int MenuView_subMenuArrow = 8;
         /** Attributes that can be used with a NavigationView.
@@ -8541,13 +8542,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_elevation dk.ei.opgaveapp:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_headerLayout dk.ei.opgaveapp:headerLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemBackground dk.ei.opgaveapp:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemIconTint dk.ei.opgaveapp:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextAppearance dk.ei.opgaveapp:itemTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextColor dk.ei.opgaveapp:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_menu dk.ei.opgaveapp:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation dk.ei.tid:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout dk.ei.tid:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground dk.ei.tid:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint dk.ei.tid:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextAppearance dk.ei.tid:itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor dk.ei.tid:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu dk.ei.tid:menu}</code></td><td></td></tr>
            </table>
            @see #NavigationView_android_background
            @see #NavigationView_android_fitsSystemWindows
@@ -8584,7 +8585,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int NavigationView_android_maxWidth = 2;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#elevation}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#elevation}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8596,31 +8597,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:elevation
+          @attr name dk.ei.tid:elevation
         */
         public static final int NavigationView_elevation = 3;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#headerLayout}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#headerLayout}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:headerLayout
+          @attr name dk.ei.tid:headerLayout
         */
         public static final int NavigationView_headerLayout = 9;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#itemBackground}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:itemBackground
+          @attr name dk.ei.tid:itemBackground
         */
         public static final int NavigationView_itemBackground = 7;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#itemIconTint}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8631,21 +8632,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:itemIconTint
+          @attr name dk.ei.tid:itemIconTint
         */
         public static final int NavigationView_itemIconTint = 5;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#itemTextAppearance}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#itemTextAppearance}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:itemTextAppearance
+          @attr name dk.ei.tid:itemTextAppearance
         */
         public static final int NavigationView_itemTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#itemTextColor}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8656,17 +8657,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:itemTextColor
+          @attr name dk.ei.tid:itemTextColor
         */
         public static final int NavigationView_itemTextColor = 6;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#menu}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#menu}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:menu
+          @attr name dk.ei.tid:menu
         */
         public static final int NavigationView_menu = 4;
         /** Attributes that can be used with a PopupWindow.
@@ -8677,7 +8678,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor dk.ei.opgaveapp:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor dk.ei.tid:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupAnimationStyle
            @see #PopupWindow_android_popupBackground
@@ -8699,7 +8700,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -8709,7 +8710,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:overlapAnchor
+          @attr name dk.ei.tid:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 2;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -8718,7 +8719,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor dk.ei.opgaveapp:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor dk.ei.tid:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -8726,7 +8727,7 @@ containing a value of this type.
             0x7f0100d2
         };
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -8736,7 +8737,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:state_above_anchor
+          @attr name dk.ei.tid:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecycleListView.
@@ -8745,8 +8746,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons dk.ei.opgaveapp:paddingBottomNoButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle dk.ei.opgaveapp:paddingTopNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons dk.ei.tid:paddingBottomNoButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle dk.ei.tid:paddingTopNoTitle}</code></td><td></td></tr>
            </table>
            @see #RecycleListView_paddingBottomNoButtons
            @see #RecycleListView_paddingTopNoTitle
@@ -8755,7 +8756,7 @@ containing a value of this type.
             0x7f0100d3, 0x7f0100d4
         };
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#paddingBottomNoButtons}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#paddingBottomNoButtons}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -8767,11 +8768,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:paddingBottomNoButtons
+          @attr name dk.ei.tid:paddingBottomNoButtons
         */
         public static final int RecycleListView_paddingBottomNoButtons = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#paddingTopNoTitle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#paddingTopNoTitle}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -8783,7 +8784,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:paddingTopNoTitle
+          @attr name dk.ei.tid:paddingTopNoTitle
         */
         public static final int RecycleListView_paddingTopNoTitle = 1;
         /** Attributes that can be used with a RecyclerView.
@@ -8794,10 +8795,10 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager dk.ei.opgaveapp:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout dk.ei.opgaveapp:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount dk.ei.opgaveapp:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd dk.ei.opgaveapp:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager dk.ei.tid:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout dk.ei.tid:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount dk.ei.tid:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd dk.ei.tid:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_descendantFocusability
            @see #RecyclerView_android_orientation
@@ -8823,7 +8824,7 @@ containing a value of this type.
         */
         public static final int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#layoutManager}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#layoutManager}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8833,11 +8834,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:layoutManager
+          @attr name dk.ei.tid:layoutManager
         */
         public static final int RecyclerView_layoutManager = 2;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8847,11 +8848,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:reverseLayout
+          @attr name dk.ei.tid:reverseLayout
         */
         public static final int RecyclerView_reverseLayout = 4;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8861,11 +8862,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:spanCount
+          @attr name dk.ei.tid:spanCount
         */
         public static final int RecyclerView_spanCount = 3;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8875,7 +8876,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:stackFromEnd
+          @attr name dk.ei.tid:stackFromEnd
         */
         public static final int RecyclerView_stackFromEnd = 5;
         /** Attributes that can be used with a ScrimInsetsFrameLayout.
@@ -8884,7 +8885,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground dk.ei.opgaveapp:insetForeground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground dk.ei.tid:insetForeground}</code></td><td></td></tr>
            </table>
            @see #ScrimInsetsFrameLayout_insetForeground
          */
@@ -8892,7 +8893,7 @@ containing a value of this type.
             0x7f010134
         };
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#insetForeground}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#insetForeground}
           attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
 
 
@@ -8900,7 +8901,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name dk.ei.opgaveapp:insetForeground
+          @attr name dk.ei.tid:insetForeground
         */
         public static final int ScrimInsetsFrameLayout_insetForeground = 0;
         /** Attributes that can be used with a ScrollingViewBehavior_Layout.
@@ -8909,7 +8910,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop dk.ei.opgaveapp:behavior_overlapTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop dk.ei.tid:behavior_overlapTop}</code></td><td></td></tr>
            </table>
            @see #ScrollingViewBehavior_Layout_behavior_overlapTop
          */
@@ -8917,7 +8918,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010135
         };
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#behavior_overlapTop}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#behavior_overlapTop}
           attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
 
 
@@ -8929,7 +8930,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:behavior_overlapTop
+          @attr name dk.ei.tid:behavior_overlapTop
         */
         public static final int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
@@ -8942,19 +8943,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon dk.ei.opgaveapp:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon dk.ei.opgaveapp:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint dk.ei.opgaveapp:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon dk.ei.opgaveapp:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault dk.ei.opgaveapp:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout dk.ei.opgaveapp:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground dk.ei.opgaveapp:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint dk.ei.opgaveapp:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon dk.ei.opgaveapp:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon dk.ei.opgaveapp:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground dk.ei.opgaveapp:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout dk.ei.opgaveapp:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon dk.ei.opgaveapp:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon dk.ei.tid:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon dk.ei.tid:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint dk.ei.tid:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon dk.ei.tid:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault dk.ei.tid:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout dk.ei.tid:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground dk.ei.tid:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint dk.ei.tid:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon dk.ei.tid:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon dk.ei.tid:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground dk.ei.tid:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout dk.ei.tid:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon dk.ei.tid:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -9006,27 +9007,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:closeIcon
+          @attr name dk.ei.tid:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:commitIcon
+          @attr name dk.ei.tid:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -9036,21 +9037,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:defaultQueryHint
+          @attr name dk.ei.tid:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:goIcon
+          @attr name dk.ei.tid:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -9060,31 +9061,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:iconifiedByDefault
+          @attr name dk.ei.tid:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#layout}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:layout
+          @attr name dk.ei.tid:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:queryBackground
+          @attr name dk.ei.tid:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -9094,57 +9095,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:queryHint
+          @attr name dk.ei.tid:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:searchHintIcon
+          @attr name dk.ei.tid:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:searchIcon
+          @attr name dk.ei.tid:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:submitBackground
+          @attr name dk.ei.tid:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:suggestionRowLayout
+          @attr name dk.ei.tid:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:voiceIcon
+          @attr name dk.ei.tid:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a SnackbarLayout.
@@ -9154,8 +9155,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_elevation dk.ei.opgaveapp:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth dk.ei.opgaveapp:maxActionInlineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation dk.ei.tid:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth dk.ei.tid:maxActionInlineWidth}</code></td><td></td></tr>
            </table>
            @see #SnackbarLayout_android_maxWidth
            @see #SnackbarLayout_elevation
@@ -9171,7 +9172,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SnackbarLayout_android_maxWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#elevation}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#elevation}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -9183,11 +9184,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:elevation
+          @attr name dk.ei.tid:elevation
         */
         public static final int SnackbarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#maxActionInlineWidth}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#maxActionInlineWidth}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -9199,7 +9200,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:maxActionInlineWidth
+          @attr name dk.ei.tid:maxActionInlineWidth
         */
         public static final int SnackbarLayout_maxActionInlineWidth = 2;
         /** Attributes that can be used with a Spinner.
@@ -9212,7 +9213,7 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_entries android:entries}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme dk.ei.opgaveapp:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme dk.ei.tid:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_entries
@@ -9249,13 +9250,13 @@ containing a value of this type.
         */
         public static final int Spinner_android_prompt = 2;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:popupTheme
+          @attr name dk.ei.tid:popupTheme
         */
         public static final int Spinner_popupTheme = 4;
         /** Attributes that can be used with a SwitchCompat.
@@ -9267,17 +9268,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText dk.ei.opgaveapp:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack dk.ei.opgaveapp:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth dk.ei.opgaveapp:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding dk.ei.opgaveapp:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance dk.ei.opgaveapp:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding dk.ei.opgaveapp:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTint dk.ei.opgaveapp:thumbTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTintMode dk.ei.opgaveapp:thumbTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track dk.ei.opgaveapp:track}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTint dk.ei.opgaveapp:trackTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTintMode dk.ei.opgaveapp:trackTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText dk.ei.tid:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack dk.ei.tid:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth dk.ei.tid:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding dk.ei.tid:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance dk.ei.tid:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding dk.ei.tid:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTint dk.ei.tid:thumbTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTintMode dk.ei.tid:thumbTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track dk.ei.tid:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTint dk.ei.tid:trackTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTintMode dk.ei.tid:trackTintMode}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -9319,7 +9320,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#showText}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9329,11 +9330,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:showText
+          @attr name dk.ei.tid:showText
         */
         public static final int SwitchCompat_showText = 13;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9343,11 +9344,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:splitTrack
+          @attr name dk.ei.tid:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 12;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9359,11 +9360,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:switchMinWidth
+          @attr name dk.ei.tid:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 10;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9375,21 +9376,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:switchPadding
+          @attr name dk.ei.tid:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 11;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:switchTextAppearance
+          @attr name dk.ei.tid:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9401,11 +9402,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:thumbTextPadding
+          @attr name dk.ei.tid:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#thumbTint}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#thumbTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9416,11 +9417,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:thumbTint
+          @attr name dk.ei.tid:thumbTint
         */
         public static final int SwitchCompat_thumbTint = 3;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#thumbTintMode}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#thumbTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9437,21 +9438,21 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name dk.ei.opgaveapp:thumbTintMode
+          @attr name dk.ei.tid:thumbTintMode
         */
         public static final int SwitchCompat_thumbTintMode = 4;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#track}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:track
+          @attr name dk.ei.tid:track
         */
         public static final int SwitchCompat_track = 5;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#trackTint}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#trackTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9462,11 +9463,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:trackTint
+          @attr name dk.ei.tid:trackTint
         */
         public static final int SwitchCompat_trackTint = 6;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#trackTintMode}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#trackTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -9483,7 +9484,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name dk.ei.opgaveapp:trackTintMode
+          @attr name dk.ei.tid:trackTintMode
         */
         public static final int SwitchCompat_trackTintMode = 7;
         /** Attributes that can be used with a TabItem.
@@ -9527,22 +9528,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TabLayout_tabBackground dk.ei.opgaveapp:tabBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabContentStart dk.ei.opgaveapp:tabContentStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabGravity dk.ei.opgaveapp:tabGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorColor dk.ei.opgaveapp:tabIndicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorHeight dk.ei.opgaveapp:tabIndicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMaxWidth dk.ei.opgaveapp:tabMaxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMinWidth dk.ei.opgaveapp:tabMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMode dk.ei.opgaveapp:tabMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPadding dk.ei.opgaveapp:tabPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingBottom dk.ei.opgaveapp:tabPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingEnd dk.ei.opgaveapp:tabPaddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingStart dk.ei.opgaveapp:tabPaddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingTop dk.ei.opgaveapp:tabPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabSelectedTextColor dk.ei.opgaveapp:tabSelectedTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextAppearance dk.ei.opgaveapp:tabTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextColor dk.ei.opgaveapp:tabTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground dk.ei.tid:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart dk.ei.tid:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity dk.ei.tid:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor dk.ei.tid:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight dk.ei.tid:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth dk.ei.tid:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth dk.ei.tid:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode dk.ei.tid:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding dk.ei.tid:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom dk.ei.tid:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd dk.ei.tid:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart dk.ei.tid:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop dk.ei.tid:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor dk.ei.tid:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance dk.ei.tid:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor dk.ei.tid:tabTextColor}</code></td><td></td></tr>
            </table>
            @see #TabLayout_tabBackground
            @see #TabLayout_tabContentStart
@@ -9568,17 +9569,17 @@ containing a value of this type.
             0x7f010143, 0x7f010144, 0x7f010145, 0x7f010146
         };
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#tabBackground}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#tabBackground}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:tabBackground
+          @attr name dk.ei.tid:tabBackground
         */
         public static final int TabLayout_tabBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#tabContentStart}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#tabContentStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9590,11 +9591,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:tabContentStart
+          @attr name dk.ei.tid:tabContentStart
         */
         public static final int TabLayout_tabContentStart = 2;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#tabGravity}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#tabGravity}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9607,11 +9608,11 @@ containing a value of this type.
 <tr><td><code>fill</code></td><td>0</td><td></td></tr>
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name dk.ei.opgaveapp:tabGravity
+          @attr name dk.ei.tid:tabGravity
         */
         public static final int TabLayout_tabGravity = 5;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#tabIndicatorColor}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#tabIndicatorColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9622,11 +9623,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:tabIndicatorColor
+          @attr name dk.ei.tid:tabIndicatorColor
         */
         public static final int TabLayout_tabIndicatorColor = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#tabIndicatorHeight}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#tabIndicatorHeight}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9638,11 +9639,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:tabIndicatorHeight
+          @attr name dk.ei.tid:tabIndicatorHeight
         */
         public static final int TabLayout_tabIndicatorHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#tabMaxWidth}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#tabMaxWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9654,11 +9655,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:tabMaxWidth
+          @attr name dk.ei.tid:tabMaxWidth
         */
         public static final int TabLayout_tabMaxWidth = 7;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#tabMinWidth}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#tabMinWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9670,11 +9671,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:tabMinWidth
+          @attr name dk.ei.tid:tabMinWidth
         */
         public static final int TabLayout_tabMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#tabMode}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#tabMode}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9687,11 +9688,11 @@ containing a value of this type.
 <tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
 <tr><td><code>fixed</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name dk.ei.opgaveapp:tabMode
+          @attr name dk.ei.tid:tabMode
         */
         public static final int TabLayout_tabMode = 4;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#tabPadding}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#tabPadding}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9703,11 +9704,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:tabPadding
+          @attr name dk.ei.tid:tabPadding
         */
         public static final int TabLayout_tabPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#tabPaddingBottom}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#tabPaddingBottom}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9719,11 +9720,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:tabPaddingBottom
+          @attr name dk.ei.tid:tabPaddingBottom
         */
         public static final int TabLayout_tabPaddingBottom = 14;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#tabPaddingEnd}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#tabPaddingEnd}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9735,11 +9736,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:tabPaddingEnd
+          @attr name dk.ei.tid:tabPaddingEnd
         */
         public static final int TabLayout_tabPaddingEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#tabPaddingStart}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#tabPaddingStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9751,11 +9752,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:tabPaddingStart
+          @attr name dk.ei.tid:tabPaddingStart
         */
         public static final int TabLayout_tabPaddingStart = 11;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#tabPaddingTop}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#tabPaddingTop}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9767,11 +9768,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:tabPaddingTop
+          @attr name dk.ei.tid:tabPaddingTop
         */
         public static final int TabLayout_tabPaddingTop = 12;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#tabSelectedTextColor}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#tabSelectedTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9782,21 +9783,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:tabSelectedTextColor
+          @attr name dk.ei.tid:tabSelectedTextColor
         */
         public static final int TabLayout_tabSelectedTextColor = 10;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#tabTextAppearance}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#tabTextAppearance}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:tabTextAppearance
+          @attr name dk.ei.tid:tabTextAppearance
         */
         public static final int TabLayout_tabTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#tabTextColor}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#tabTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9807,7 +9808,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:tabTextColor
+          @attr name dk.ei.tid:tabTextColor
         */
         public static final int TabLayout_tabTextColor = 9;
         /** Attributes that can be used with a TextAppearance.
@@ -9825,7 +9826,7 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps dk.ei.opgaveapp:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps dk.ei.tid:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -9898,14 +9899,14 @@ containing a value of this type.
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name dk.ei.opgaveapp:textAllCaps
+          @attr name dk.ei.tid:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 9;
         /** Attributes that can be used with a TextInputLayout.
@@ -9916,20 +9917,20 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
            <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterEnabled dk.ei.opgaveapp:counterEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterMaxLength dk.ei.opgaveapp:counterMaxLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance dk.ei.opgaveapp:counterOverflowTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterTextAppearance dk.ei.opgaveapp:counterTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorEnabled dk.ei.opgaveapp:errorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorTextAppearance dk.ei.opgaveapp:errorTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled dk.ei.opgaveapp:hintAnimationEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintEnabled dk.ei.opgaveapp:hintEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintTextAppearance dk.ei.opgaveapp:hintTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription dk.ei.opgaveapp:passwordToggleContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable dk.ei.opgaveapp:passwordToggleDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled dk.ei.opgaveapp:passwordToggleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTint dk.ei.opgaveapp:passwordToggleTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode dk.ei.opgaveapp:passwordToggleTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterEnabled dk.ei.tid:counterEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterMaxLength dk.ei.tid:counterMaxLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance dk.ei.tid:counterOverflowTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterTextAppearance dk.ei.tid:counterTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled dk.ei.tid:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance dk.ei.tid:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled dk.ei.tid:hintAnimationEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintEnabled dk.ei.tid:hintEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance dk.ei.tid:hintTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription dk.ei.tid:passwordToggleContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable dk.ei.tid:passwordToggleDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled dk.ei.tid:passwordToggleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTint dk.ei.tid:passwordToggleTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode dk.ei.tid:passwordToggleTintMode}</code></td><td></td></tr>
            </table>
            @see #TextInputLayout_android_hint
            @see #TextInputLayout_android_textColorHint
@@ -9967,7 +9968,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextInputLayout_android_textColorHint = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#counterEnabled}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#counterEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9977,11 +9978,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:counterEnabled
+          @attr name dk.ei.tid:counterEnabled
         */
         public static final int TextInputLayout_counterEnabled = 6;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#counterMaxLength}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#counterMaxLength}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9991,31 +9992,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:counterMaxLength
+          @attr name dk.ei.tid:counterMaxLength
         */
         public static final int TextInputLayout_counterMaxLength = 7;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#counterOverflowTextAppearance}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#counterOverflowTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:counterOverflowTextAppearance
+          @attr name dk.ei.tid:counterOverflowTextAppearance
         */
         public static final int TextInputLayout_counterOverflowTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#counterTextAppearance}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#counterTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:counterTextAppearance
+          @attr name dk.ei.tid:counterTextAppearance
         */
         public static final int TextInputLayout_counterTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#errorEnabled}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#errorEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10025,21 +10026,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:errorEnabled
+          @attr name dk.ei.tid:errorEnabled
         */
         public static final int TextInputLayout_errorEnabled = 4;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#errorTextAppearance}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#errorTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:errorTextAppearance
+          @attr name dk.ei.tid:errorTextAppearance
         */
         public static final int TextInputLayout_errorTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#hintAnimationEnabled}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#hintAnimationEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10049,11 +10050,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:hintAnimationEnabled
+          @attr name dk.ei.tid:hintAnimationEnabled
         */
         public static final int TextInputLayout_hintAnimationEnabled = 10;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#hintEnabled}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#hintEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10063,21 +10064,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:hintEnabled
+          @attr name dk.ei.tid:hintEnabled
         */
         public static final int TextInputLayout_hintEnabled = 3;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#hintTextAppearance}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#hintTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:hintTextAppearance
+          @attr name dk.ei.tid:hintTextAppearance
         */
         public static final int TextInputLayout_hintTextAppearance = 2;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#passwordToggleContentDescription}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#passwordToggleContentDescription}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10087,21 +10088,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:passwordToggleContentDescription
+          @attr name dk.ei.tid:passwordToggleContentDescription
         */
         public static final int TextInputLayout_passwordToggleContentDescription = 13;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#passwordToggleDrawable}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#passwordToggleDrawable}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:passwordToggleDrawable
+          @attr name dk.ei.tid:passwordToggleDrawable
         */
         public static final int TextInputLayout_passwordToggleDrawable = 12;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#passwordToggleEnabled}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#passwordToggleEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10111,11 +10112,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:passwordToggleEnabled
+          @attr name dk.ei.tid:passwordToggleEnabled
         */
         public static final int TextInputLayout_passwordToggleEnabled = 11;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#passwordToggleTint}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#passwordToggleTint}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10126,11 +10127,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:passwordToggleTint
+          @attr name dk.ei.tid:passwordToggleTint
         */
         public static final int TextInputLayout_passwordToggleTint = 14;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#passwordToggleTintMode}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#passwordToggleTintMode}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -10146,7 +10147,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name dk.ei.opgaveapp:passwordToggleTintMode
+          @attr name dk.ei.tid:passwordToggleTintMode
         */
         public static final int TextInputLayout_passwordToggleTintMode = 15;
         /** Attributes that can be used with a Toolbar.
@@ -10157,33 +10158,33 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_buttonGravity dk.ei.opgaveapp:buttonGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription dk.ei.opgaveapp:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon dk.ei.opgaveapp:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd dk.ei.opgaveapp:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions dk.ei.opgaveapp:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft dk.ei.opgaveapp:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight dk.ei.opgaveapp:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart dk.ei.opgaveapp:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation dk.ei.opgaveapp:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo dk.ei.opgaveapp:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription dk.ei.opgaveapp:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight dk.ei.opgaveapp:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription dk.ei.opgaveapp:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon dk.ei.opgaveapp:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme dk.ei.opgaveapp:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle dk.ei.opgaveapp:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance dk.ei.opgaveapp:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor dk.ei.opgaveapp:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title dk.ei.opgaveapp:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargin dk.ei.opgaveapp:titleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom dk.ei.opgaveapp:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd dk.ei.opgaveapp:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart dk.ei.opgaveapp:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop dk.ei.opgaveapp:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins dk.ei.opgaveapp:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance dk.ei.opgaveapp:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor dk.ei.opgaveapp:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_buttonGravity dk.ei.tid:buttonGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription dk.ei.tid:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon dk.ei.tid:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd dk.ei.tid:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions dk.ei.tid:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft dk.ei.tid:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight dk.ei.tid:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart dk.ei.tid:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation dk.ei.tid:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo dk.ei.tid:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription dk.ei.tid:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight dk.ei.tid:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription dk.ei.tid:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon dk.ei.tid:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme dk.ei.tid:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle dk.ei.tid:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance dk.ei.tid:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor dk.ei.tid:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title dk.ei.tid:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargin dk.ei.tid:titleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom dk.ei.tid:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd dk.ei.tid:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart dk.ei.tid:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop dk.ei.tid:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins dk.ei.tid:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance dk.ei.tid:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor dk.ei.tid:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -10238,7 +10239,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#buttonGravity}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#buttonGravity}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10251,11 +10252,11 @@ containing a value of this type.
 <tr><td><code>top</code></td><td>0x30</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
 </table>
-          @attr name dk.ei.opgaveapp:buttonGravity
+          @attr name dk.ei.tid:buttonGravity
         */
         public static final int Toolbar_buttonGravity = 21;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10265,21 +10266,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:collapseContentDescription
+          @attr name dk.ei.tid:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 23;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:collapseIcon
+          @attr name dk.ei.tid:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 22;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10291,11 +10292,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:contentInsetEnd
+          @attr name dk.ei.tid:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10307,11 +10308,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:contentInsetEndWithActions
+          @attr name dk.ei.tid:contentInsetEndWithActions
         */
         public static final int Toolbar_contentInsetEndWithActions = 10;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10323,11 +10324,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:contentInsetLeft
+          @attr name dk.ei.tid:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10339,11 +10340,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:contentInsetRight
+          @attr name dk.ei.tid:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10355,11 +10356,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:contentInsetStart
+          @attr name dk.ei.tid:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10371,21 +10372,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:contentInsetStartWithNavigation
+          @attr name dk.ei.tid:contentInsetStartWithNavigation
         */
         public static final int Toolbar_contentInsetStartWithNavigation = 9;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#logo}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:logo
+          @attr name dk.ei.tid:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10395,11 +10396,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:logoDescription
+          @attr name dk.ei.tid:logoDescription
         */
         public static final int Toolbar_logoDescription = 26;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10411,11 +10412,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:maxButtonHeight
+          @attr name dk.ei.tid:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 20;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10425,31 +10426,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:navigationContentDescription
+          @attr name dk.ei.tid:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 25;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:navigationIcon
+          @attr name dk.ei.tid:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 24;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:popupTheme
+          @attr name dk.ei.tid:popupTheme
         */
         public static final int Toolbar_popupTheme = 11;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10459,21 +10460,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:subtitle
+          @attr name dk.ei.tid:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:subtitleTextAppearance
+          @attr name dk.ei.tid:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 13;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10484,11 +10485,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:subtitleTextColor
+          @attr name dk.ei.tid:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 28;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#title}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10498,11 +10499,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:title
+          @attr name dk.ei.tid:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#titleMargin}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#titleMargin}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10514,11 +10515,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:titleMargin
+          @attr name dk.ei.tid:titleMargin
         */
         public static final int Toolbar_titleMargin = 14;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10530,11 +10531,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:titleMarginBottom
+          @attr name dk.ei.tid:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 18;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10546,11 +10547,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:titleMarginEnd
+          @attr name dk.ei.tid:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 16;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10562,11 +10563,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:titleMarginStart
+          @attr name dk.ei.tid:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 15;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10578,11 +10579,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:titleMarginTop
+          @attr name dk.ei.tid:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 17;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10594,21 +10595,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:titleMargins
+          @attr name dk.ei.tid:titleMargins
         */
         public static final int Toolbar_titleMargins = 19;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:titleTextAppearance
+          @attr name dk.ei.tid:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 12;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10619,7 +10620,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:titleTextColor
+          @attr name dk.ei.tid:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 27;
         /** Attributes that can be used with a View.
@@ -10630,9 +10631,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd dk.ei.opgaveapp:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart dk.ei.opgaveapp:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme dk.ei.opgaveapp:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd dk.ei.tid:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart dk.ei.tid:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme dk.ei.tid:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -10657,7 +10658,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -10669,11 +10670,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:paddingEnd
+          @attr name dk.ei.tid:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -10685,17 +10686,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:paddingStart
+          @attr name dk.ei.tid:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#theme}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name dk.ei.opgaveapp:theme
+          @attr name dk.ei.tid:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -10705,8 +10706,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint dk.ei.opgaveapp:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode dk.ei.opgaveapp:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint dk.ei.tid:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode dk.ei.tid:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -10722,7 +10723,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -10733,11 +10734,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name dk.ei.opgaveapp:backgroundTint
+          @attr name dk.ei.tid:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link dk.ei.opgaveapp.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link dk.ei.tid.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -10753,7 +10754,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name dk.ei.opgaveapp:backgroundTintMode
+          @attr name dk.ei.tid:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.
